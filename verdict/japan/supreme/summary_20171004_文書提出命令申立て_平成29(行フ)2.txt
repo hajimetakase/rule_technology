@@ -1,0 +1,19 @@
+
+                       date: 20171004
+                       result:  棄却
+                       verdict_type:supreme
+                       incident_id: 平成29(行フ)2
+                       incident_name: 文書提出命令申立て却下決定に対する抗告審の変更決定に対する許可抗告事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 決定
+                       book: ()
+                       previous_court_type: 高松高等裁判所
+                       previous_incident_id: 平成28(行ス)2
+                       previous_judeged_at:20170324
+                       agenda_description:  地方公共団体は，その機関が保管する文書について，文書提出命令の名宛人となる文書の所持者に当たるか
+                       law_area: 
+                       law_description:  民訴法２１９条，民訴法２２０条，民訴法２２１条１項，民訴法２２３条１項
+                       summary_description:  地方公共団体は，その機関が保管する文書について，文書提出命令の名宛人となる文書の所持者に当たる。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87116
+                    
