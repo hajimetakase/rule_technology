@@ -1,0 +1,19 @@
+
+                       date: 20170707
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(ネ)270
+                       incident_name: 損害賠償請求控訴事件
+                       court_name: 名古屋高等裁判所 　民事第２部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  持続性心房細動の治療を目的とするカテーテルアブレーションを実施した際に脳梗塞を発症し，重篤な後遺障害が残存した事案において，担当医師に禁忌とされる左心耳内血栓を疑わせる所見を見落とした過失があったと認めて，医療法人に損害賠償を命じた事例。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87141
+                    
