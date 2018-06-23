@@ -1,0 +1,19 @@
+
+                       date: 20171130
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(行コ)46
+                       incident_name: 
+                       court_name: 名古屋高等裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  Ｈ２８（行コ）４６号 被相続人に係る昭和６０年法律第３４号による改正前の国民年金法に規定する通算老齢年金について，相続人である控訴人が裁定の請求を行い，厚生労働大臣から裁定を受けたものの，裁定請求時点で支払期日から５年が経過していた部分は時効消滅により支給しないとされたため，国に対して未支給年金の支払請求をした事案において，昭和６３年当時，被相続人が区役所年金係を訪れ，担当職員の誤った言動によって裁定請求を断念したものであると認定し，国が消滅時効を主張することは信義則に反し許されないとして，未支給年金の支払請求を認容した事例。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87660
+                    
