@@ -1,0 +1,19 @@
+
+                       date: 20170713
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成26(ワ)468
+                       incident_name: 損害賠償請求事件
+                       court_name: 仙台地方裁判所 　第３民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  経口避妊薬の処方を受けていた患者が死亡したことについて，医師には添付文書に記載された使用上の注意事項に従わずに経口避妊薬を処方したという注意義務違反があり，その注意義務違反と死亡との間には因果関係が存在するとして，原告の請求を一部認容した事案
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87587
+                    
