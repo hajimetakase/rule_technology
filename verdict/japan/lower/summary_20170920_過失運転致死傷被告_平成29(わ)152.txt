@@ -1,0 +1,19 @@
+
+                       date: 20170920
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(わ)152
+                       incident_name: 過失運転致死傷被告事件
+                       court_name: 札幌地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  大型貨物自動車を運転し路面が凍結した道路を走行中，不必要にトレーラブレーキを操作して制動措置を講じ，自車トレーラ部の後部を滑走させて対向車線にはみ出させた過失により，対向直進してきた大型貨物自動車の運転者をして自車との衝突回避のため左転把の措置を余儀なくさせるなどして自車の後続車と衝突させた結果，対向車の運転者を死亡させ，後続車の運転者に傷害を負わせたとして，被告人に禁錮２年８月を言い渡した過失運転致死傷の事案
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87147
+                    
