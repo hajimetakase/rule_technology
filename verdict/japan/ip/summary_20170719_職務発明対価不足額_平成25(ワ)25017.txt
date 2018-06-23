@@ -15,5 +15,5 @@
                        law_description: 
                        summary_description: 
                        result: 
-                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail7?id=87290
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail7?id=87058
                     
