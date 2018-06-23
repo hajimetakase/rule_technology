@@ -1,0 +1,19 @@
+
+                       date: 20180425
+                       result:  棄却
+                       verdict_type:lower
+                       incident_id: 平成29(う)1848
+                       incident_name: 住居侵入，強盗殺人，死体遺棄（変更後の訴因　死体損壊，死体遺棄）
+                       court_name: 東京高等裁判所 　第３刑事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87770
+                    

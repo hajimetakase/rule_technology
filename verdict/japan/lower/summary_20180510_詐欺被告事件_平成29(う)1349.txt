@@ -1,0 +1,19 @@
+
+                       date: 20180510
+                       result:  破棄自判
+                       verdict_type:lower
+                       incident_id: 平成29(う)1349
+                       incident_name: 詐欺被告事件
+                       court_name: 大阪高等裁判所 　第3刑事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  イベント会社の従業員である被告人が，従前イベント会社等が使用する無線機器等に割り当てられていた周波数帯域を携帯電話に割り当てるため，他の周波数帯域の無線機器等を購入してイベント会社等に無償提供するなどの事業を行っていた団体の職員と共謀の上，同団体から無償提供用の無線機器の購入名下に約５４００万円をだまし取ったとされる詐欺の事案につき，同職員との間の共謀及び故意を認めて被告人を有罪とした原判決には事実の誤認があるとしてこれを破棄し，被告人に無罪を言い渡した事例
+                       result:  破棄自判
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87797
+                    

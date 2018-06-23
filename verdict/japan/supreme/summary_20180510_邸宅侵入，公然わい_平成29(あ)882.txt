@@ -1,0 +1,19 @@
+
+                       date: 20180510
+                       result:  破棄自判
+                       verdict_type:supreme
+                       incident_id: 平成29(あ)882
+                       incident_name: 邸宅侵入，公然わいせつ被告事件
+                       court_name: 最高裁判所第一小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 大阪高等裁判所
+                       previous_incident_id: 平成29(う)1079
+                       previous_judeged_at:20170427
+                       agenda_description:  いわゆるＳＴＲ型によるＤＮＡ型鑑定の信用性を否定した原判決が破棄された事例
+                       law_area: 
+                       law_description:  
+                       summary_description:  
+                       result:  破棄自判
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87734
+                    
