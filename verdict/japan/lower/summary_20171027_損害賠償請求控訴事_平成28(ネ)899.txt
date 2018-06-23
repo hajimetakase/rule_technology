@@ -1,0 +1,19 @@
+
+                       date: 20171027
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(ネ)899
+                       incident_name: 損害賠償請求控訴事件，仮執行の原状回復及び損害賠償を命ずる裁判の申立事件
+                       court_name: 大阪高等裁判所 　第１民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  福島第一原子力発電所の事故発生後福島県郡山市から家族で自主避難した者が，同原発を設置・運営する原子力事業者に対し，原子力損害の賠償に関する法律３条１項本文に基づき損害賠償を求めた事案において，自主避難者が一定期間避難を継続する合理性を認めた上，避難開始後うつ病等に罹患したことと上記事故との間に相当因果関係を認め，うつ病の治療開始から約２年間経過時までを上記事故と相当因果関係のある治療期間及び就労不能期間と認めるとともに，上記事故以外の要因が精神疾患の悪化に相当程度寄与したとして，民法７２２条２項を類推適用して休業損害等につき減額した事例（なお，参考として原審判決を別紙１として添付した。）。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87243
+                    
