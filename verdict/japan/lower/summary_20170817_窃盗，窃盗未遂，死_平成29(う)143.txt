@@ -1,0 +1,19 @@
+
+                       date: 20170817
+                       result:  破棄自判
+                       verdict_type:lower
+                       incident_id: 平成29(う)143
+                       incident_name: 窃盗，窃盗未遂，死体遺棄
+                       court_name: 名古屋高等裁判所 　刑事第２部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  破棄自判
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87033
+                    
