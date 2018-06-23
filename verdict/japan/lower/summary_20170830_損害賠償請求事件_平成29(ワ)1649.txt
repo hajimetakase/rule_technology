@@ -1,0 +1,19 @@
+
+                       date: 20170830
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(ワ)1649
+                       incident_name: 損害賠償請求事件
+                       court_name: 大阪地方裁判所 　第２２民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  インターネット上の掲示板において，他人の顔写真やアカウント名を利用して他人になりすまし，第三者に対する中傷等を行ったことについて，名誉権及び肖像権の侵害が認められた事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87071
+                    
