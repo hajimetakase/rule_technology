@@ -1,0 +1,19 @@
+
+                       date: 20171128
+                       result:  その他
+                       verdict_type:lower
+                       incident_id: 平成28(ネ)273
+                       incident_name: 損害賠償請求控訴事件
+                       court_name: 広島高等裁判所 　第２部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  広島拘置所に勾留されていた被告人Aの弁護人であった控訴人が，Aに対し同人の母親から預かったA宛ての手紙を刑事裁判の取調請求予定の証拠として窓口で差し入れようとしたのに対し，同拘置所の職員が，その差入れを拒否したことについて，上記手紙は刑事収容施設及び被収容者等の処遇に関する法律にいう物品に該当し，その窓口差入れを認めるべきところ，上記手紙を刑事裁判の情状証拠として請求する予定である旨の控訴人の説明を疑うべき事情はないにもかかわらず，上記手紙は同法にいう物品に該当しないとの理由で上記手紙の窓口差入れを拒否したものであるから，国家賠償法上の違法性を有し，また，少なくとも過失があったと認められるとして，慰謝料５０万円及び弁護士費用１０万円の請求のうち，慰謝料１０万円及び弁護士費用１万円合計１１万円の限度で請求を認めた事例。
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87319
+                    
