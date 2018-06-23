@@ -1,0 +1,19 @@
+
+                       date: 20170713
+                       result: 
+                       verdict_type:ip
+                       incident_id: 平成27(ワ)12239等
+                       incident_name: 売買代金請求事件，損害賠償請求反訴事件
+                       court_name: 大阪地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description:  特許権
+                       law_area:  民事訴訟
+                       law_description: 
+                       summary_description: 
+                       result: 
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail7?id=87004
+                    
