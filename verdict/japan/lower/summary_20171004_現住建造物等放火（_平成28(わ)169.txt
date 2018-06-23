@@ -1,0 +1,19 @@
+
+                       date: 20171004
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(わ)169
+                       incident_name: 現住建造物等放火（変更後の訴因　現住建造物等放火，殺人），非現住建造物等放火
+                       court_name: 岐阜地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  所持金が尽きたときには死ぬしかないと考えていた被告人が，同居していた知的障害のある妹との無理心中を図り，自宅に放火して妹を殺害するなどした事案について，被告人を懲役１２年に処した。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87231
+                    
