@@ -1,0 +1,19 @@
+
+                       date: 20171127
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(ワ)1532
+                       incident_name: 損害賠償等請求事件
+                       court_name: 大阪地方裁判所 　第１８民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  社会福祉法人の元理事長が不明朗な土地取引を主導し（①），同法人に約４７００万円の損失が生じている（②）疑いがある旨の新聞記事について，①については真実相当性を肯定し，②については掲載当時，損失額が約９２０万円に減少し，同記事の取材及び執筆等をした者においてその事実を知っていたとして，真実相当性を否定した事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87342
+                    
