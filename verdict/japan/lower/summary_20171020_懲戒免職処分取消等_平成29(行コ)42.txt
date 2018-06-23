@@ -1,0 +1,19 @@
+
+                       date: 20171020
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(行コ)42
+                       incident_name: 懲戒免職処分取消等請求控訴事件
+                       court_name: 名古屋高等裁判所 　民事第３部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  酒気帯び運転をしたことが信用失墜行為の禁止に反するなどとして名古屋市上下水道局の職員に対し名古屋市上下水道局長がした懲戒免職処分及び退職手当支給制限処分の取消請求につき，酒気帯び運転の態様が極めて悪質で，責任は重大であるなどとして，懲戒免職処分及び退職手当支給制限処分のいずれについても裁量権の逸脱又は濫用はないものと判断し，原判決のうち退職手当支給制限処分の取消請求を認容した部分は取り消して同取消請求を棄却するとともに，懲戒免職処分の取消請求を棄却した部分に対する控訴を棄却した事例（なお，参考として原審判決を別紙として添付した。）。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87467
+                    
