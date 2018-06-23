@@ -1,0 +1,19 @@
+
+                       date: 20170728
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成25(行ウ)14
+                       incident_name: 高等学校等就学支援金支給校指定義務付等請求事件
+                       court_name: 大阪地方裁判所 　第２民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  平成２５年法律第９０号による改正前の公立高等学校に係る授業料の不徴収及び高等学校等就学支援金の支給に関する法律２条１項５号及びその委任を受けた同法施行規則１条１項２号ハの規定に基づく指定をしない旨の文部科学大臣の処分が違法であるとして取り消され，上記規定に基づく指定をすべき旨が命じられた事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87038
+                    
