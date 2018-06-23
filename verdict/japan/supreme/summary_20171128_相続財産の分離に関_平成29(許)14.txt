@@ -1,0 +1,19 @@
+
+                       date: 20171128
+                       result:  棄却
+                       verdict_type:supreme
+                       incident_id: 平成29(許)14
+                       incident_name: 相続財産の分離に関する処分及び相続財産管理人選任審判に対する抗告審の取消決定に対する許可抗告事件
+                       court_name: 最高裁判所第三小法廷
+                       process_type: 決定
+                       book: ()
+                       previous_court_type: 大阪高等裁判所
+                       previous_incident_id: 平成29(ラ)302
+                       previous_judeged_at:20170420
+                       agenda_description:  家庭裁判所が民法９４１条１項の規定に基づき財産分離を命ずることができる場合
+                       law_area: 
+                       law_description:  民法９４１条１項，家事事件手続法３９条，家事事件手続法別表第１の９６の項
+                       summary_description:  家庭裁判所は，相続人がその固有財産について債務超過の状態にあり又はそのような状態に陥るおそれがあることなどから，相続財産と相続人の固有財産とが混合することによって相続債権者又は受遺者がその債権の全部又は一部の弁済を受けることが困難となるおそれがあると認められる場合に，民法９４１条１項の規定に基づき，財産分離を命ずることができる。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87263
+                    
