@@ -1,0 +1,19 @@
+
+                       date: 20170808
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(わ)20
+                       incident_name: 殺人
+                       court_name: 岐阜地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  知人への借金返済に思い悩み，脳性麻痺等の障害を有している息子との心中を決意し，息子をビニール紐で絞殺した事案。被告人は，息子の首をビニール紐で絞めたことはないとして，実行行為を否認したが，被害者の遺体の発見状況や解剖所見などから，被告人による実行行為を認定し，犯行態様の危険性が高いこと，動機に同情の余地がないとはいえない一方で，やむを得ないものともいえないことなどを考慮し，被告人を懲役４年に処した。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87198
+                    
