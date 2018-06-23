@@ -1,0 +1,19 @@
+
+                       date: 20170913
+                       result:  その他
+                       verdict_type:lower
+                       incident_id: 平成28合(わ)23
+                       incident_name: 傷害致死被告事件
+                       court_name: 東京地方裁判所 　刑事第１３部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87146
+                    
