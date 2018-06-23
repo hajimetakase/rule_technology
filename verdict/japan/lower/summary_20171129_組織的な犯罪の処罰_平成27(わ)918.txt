@@ -1,0 +1,19 @@
+
+                       date: 20171129
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成27(わ)918
+                       incident_name: 組織的な犯罪の処罰及び犯罪収益の規制等に関する法律違反，銃砲刀剣類所持等取締法違反，詐欺，恐喝，恐喝未遂
+                       court_name: 福岡地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87404
+                    
