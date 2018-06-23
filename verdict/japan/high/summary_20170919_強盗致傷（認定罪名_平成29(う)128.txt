@@ -1,0 +1,19 @@
+
+                       date: 20170919
+                       result:  棄却
+                       verdict_type:high
+                       incident_id: 平成29(う)128
+                       incident_name: 強盗致傷（認定罪名　恐喝未遂，傷害）被告事件
+                       court_name: 福岡高等裁判所 　第１刑事部
+                       process_type:
+                       book: ()
+                       previous_court_type: 福岡地方裁判所 　小倉支部
+                       previous_incident_id: 平成28(わ)754
+                       previous_judeged_at:
+                       agenda_description:  被害者が解放後に借金全額を肩代わりして支払うことに向けられた暴行，脅迫の影響が強盗罪にいう反抗を抑圧するに足りる程度のものとは認められないとされた事例
+                       law_area: 
+                       law_description: 
+                       summary_description:  被害者には，解放後された後，主体的に借金全額を肩代わりして支払うという能動的な行為が求められており，暴行，脅迫を加えたのは相当に優位な立場にある被害者に対抗しようとしたものであり，本格的に借金全額の肩代わりを求めたのは，激しい暴行，脅迫が収束した後である可能性があるなどの本件事実関係（判文参照）の下では，それまでに被害者に加えた暴行，脅迫の影響は，反抗を抑圧するに足りる程度のものとは認められない。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail3?id=87779
+                    
