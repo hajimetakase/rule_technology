@@ -1,0 +1,19 @@
+
+                       date: 20170714
+                       result:  棄却
+                       verdict_type:high
+                       incident_id: 平成29(医ほ)13
+                       incident_name: 入院決定に対する抗告申立事件
+                       court_name: 東京高等裁判所 　第５刑事部
+                       process_type:
+                       book: ()
+                       previous_court_type: 横浜地方裁判所
+                       previous_incident_id: 平成29(医ろ)12
+                       previous_judeged_at:
+                       agenda_description:  心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律と憲法１４条１項，２２条１項及び３１条
+                       law_area: 
+                       law_description: 
+                       summary_description:  心神喪失等の状態で重大な他害行為を行った者の医療及び観察等に関する法律は，憲法１４条１項，２２条１項及び３１条に違反しない。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail3?id=87502
+                    
