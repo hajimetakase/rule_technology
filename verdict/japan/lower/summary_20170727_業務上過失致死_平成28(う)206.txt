@@ -1,0 +1,19 @@
+
+                       date: 20170727
+                       result:  破棄自判
+                       verdict_type:lower
+                       incident_id: 平成28(う)206
+                       incident_name: 業務上過失致死
+                       court_name: 札幌高等裁判所 　刑事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  認知症を患う高齢要介護者のための共同生活住宅であるグループホームにおける火災事故により入居者７名が焼死した事故につき，同ホームの運営等の業務全般を統括するとともに，建物について管理する権原を有し，その設備等の設置，維持及び防火管理の業務に従事していた同ホームの運営事業者である法人の代表取締役に業務上過失致傷罪が成立するとされた事例
+                       result:  破棄自判
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87185
+                    
