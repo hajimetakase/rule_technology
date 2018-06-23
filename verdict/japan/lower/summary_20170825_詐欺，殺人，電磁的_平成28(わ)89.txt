@@ -1,0 +1,19 @@
+
+                       date: 20170825
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(わ)89
+                       incident_name: 詐欺，殺人，電磁的公正証書原本不実記録・同供用，有印私文書偽造・同行使，詐欺未遂
+                       court_name: 甲府地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87246
+                    
