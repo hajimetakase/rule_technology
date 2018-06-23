@@ -1,0 +1,19 @@
+
+                       date: 20180601
+                       result:  その他
+                       verdict_type:supreme
+                       incident_id: 平成29(受)442
+                       incident_name: 地位確認等請求事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 東京高等裁判所
+                       previous_incident_id: 平成28(ネ)2993
+                       previous_judeged_at:20161102
+                       agenda_description:  １　有期契約労働者が定年退職後に再雇用された者であることは，労働契約法２０条にいう「その他の事情」として考慮されることとなる事情に当たる ２　有期契約労働者と無期契約労働者との個々の賃金項目に係る労働条件の相違が不合理と認められるものであるか否かについての判断の方法 ３　無期契約労働者に対して能率給及び職務給を支給する一方で有期契約労働者に対して能率給及び職務給を支給せずに歩合給を支給するという労働条件の相違が，労働契約法２０条にいう不合理と認められるものに当たらないとされた事例
+                       law_area: 
+                       law_description:  
+                       summary_description:  
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87785
+                    

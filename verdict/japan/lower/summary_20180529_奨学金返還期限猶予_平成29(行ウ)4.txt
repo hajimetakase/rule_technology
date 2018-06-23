@@ -1,0 +1,19 @@
+
+                       date: 20180529
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(行ウ)4
+                       incident_name: 奨学金返還期限猶予承認処分義務付け等請求事件
+                       court_name: 札幌地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  被告である独立行政法人日本学生支援機構から奨学金の貸与を受けた原告が，被告に対して，その返還期限の猶予を願い出たところ，被告から同願い出には応じられない旨の回答を受けたことから，同回答が行政処分に当たるとして，その取消しを求めた事案について，同回答は行政事件訴訟法３条２項に定める処分に当たるということはできないとして，本件訴えを却下した事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87827
+                    

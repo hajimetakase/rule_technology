@@ -1,0 +1,19 @@
+
+                       date: 20180601
+                       result:  その他
+                       verdict_type:supreme
+                       incident_id: 平成28(受)2099
+                       incident_name: 未払賃金等支払請求事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 大阪高等裁判所
+                       previous_incident_id: 平成27(ネ)3037
+                       previous_judeged_at:20160726
+                       agenda_description:  １　有期契約労働者と無期契約労働者との労働条件の相違が労働契約法２０条に違反する場合における当該有期契約労働者の労働条件 ２　労働契約法２０条にいう「期間の定めがあることにより」の意義 ３　労働契約法２０条にいう「不合理と認められるもの」の意義 ４　乗務員のうち無期契約労働者に対して皆勤手当を支給する一方で有期契約労働者に対してこれを支給しないという労働条件の相違は，労働契約法２０条にいう不合理と認められるものに当たるとされた事例
+                       law_area: 
+                       law_description:  
+                       summary_description:  
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87784
+                    
