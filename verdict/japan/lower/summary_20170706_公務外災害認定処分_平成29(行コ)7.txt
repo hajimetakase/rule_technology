@@ -1,0 +1,19 @@
+
+                       date: 20170706
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(行コ)7
+                       incident_name: 公務外災害認定処分取消請求控訴事件
+                       court_name: 名古屋高等裁判所 　民事第１部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  市職員であったＡの妻である原告が，亡Ａが自殺をしたのは，公務に起因して発生した精神疾患が原因であると主張し，地方公務員災害補償基金県支部長（処分行政庁）が本件災害についてした公務外災害認定処分の取消しを求めた件につき，原告の請求を認容した原判決が是認された事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87100
+                    
