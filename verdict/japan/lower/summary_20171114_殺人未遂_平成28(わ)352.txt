@@ -1,0 +1,19 @@
+
+                       date: 20171114
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(わ)352
+                       incident_name: 殺人未遂
+                       court_name: 岐阜地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  殺意をもって，普通乗用自動車を時速約４０ｋｍで走行させ，道路端を一列に並んで集団登校していた小学生１０人に，その背後から衝突させ，そのうち９人に傷害を負わせた事案。被告人は殺意を否認したが，自動車の走行態様等から殺意を認定した。さらに，弁護人は，被告人が当時持続性妄想性障害に罹患していた等の事情から心神耗弱であった旨の主張をしたが，妄想の影響は限定的であるなどの理由から，完全責任能力を認めた。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87370
+                    
