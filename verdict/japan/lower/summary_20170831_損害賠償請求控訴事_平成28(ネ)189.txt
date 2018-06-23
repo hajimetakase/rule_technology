@@ -1,0 +1,19 @@
+
+                       date: 20170831
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(ネ)189
+                       incident_name: 損害賠償請求控訴事件
+                       court_name: 札幌高等裁判所 　第３民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  "〔病院情報管理システム事件〕 病院情報管理システムの構築と同システムをリースすることを目的とする契約（以下「本件契約」という。）に関し，一審原告は，一審被告に対し，納期までに上記システムの完成及び引渡しがなかったために損害を被ったとし債務不履行に基づく損害賠償を請求し，一審被告は，一審原告に対し，上記遅滞につき，一審被告には帰責性はないのに一審原告の協力義務違反及び不当な受領拒絶により，売買代金を得られなくなったとして，債務不履行に基づく損害賠償を請求した。 当審では，一審原告には本件契約上の協力義務違反がある一方，一審被告にはプロジェクトマネジメント義務違反があったとは認められず，一審被告には債務不履行（履行遅滞）について帰責性はないとして，一審原告の請求を棄却し，一審被告の請求を一部認容した。　 （１審　旭川地裁28.3.29第１事件一審原告一部勝訴，第２事件一審被告一部勝訴） "
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87065
+                    
