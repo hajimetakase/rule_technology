@@ -1,0 +1,19 @@
+
+                       date: 20171226
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(ワ)2414
+                       incident_name: 損害賠償等請求事件
+                       court_name: 札幌地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  国立大学法人である被告が，授業料に未納があることを理由に元学生である原告が提出した退学願いを受理せず，原告からの在学契約の解除を認めない取扱いをしていたところ，退学願いを受理しないものと取り扱った被告大学の学部長の行為は，学生による在学契約の解除権の行使を合理的な理由なく制約するものであって国家賠償法１条１項の適用上違法であるとして，被告に対する損害賠償請求の一部を認容した事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87426
+                    
