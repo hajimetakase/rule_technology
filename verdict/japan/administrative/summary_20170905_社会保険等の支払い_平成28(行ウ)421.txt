@@ -1,0 +1,19 @@
+
+                       date: 20170905
+                       result: 
+                       verdict_type:administrative
+                       incident_id: 平成28(行ウ)421
+                       incident_name: 社会保険等の支払い請求事件
+                       court_name: 東京地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  厚生年金保険法２８条の２に基づく訂正の請求をした者の亡夫が，同法９条の被保険者であったとは認められないとして，同法２８条の４に基づく厚生年金保険原簿を訂正しない旨の処分につき，次の判示(1)及び(2)の事情が認められる期間について，亡夫は，厚生年金保険の被保険者（同法９条）であったと認めるのが相当であるとして，前記訂正しない旨の処分の一部を違法とした事例 　(1)　亡夫は，警備業を営む任意包括適用事業所と契約関係にある警備員として勤務していた。 　(2)　上記事業所は，亡夫の出勤日数，休日勤務日数，夜勤日数，昼残業時間数，夜残業時間数を管理し，これに各単価を乗じた額を支給していたほか，亡夫の講習代，定期代，交通費，通信費等の職務を遂行する上で必要となる経費的な手当も支給していた。
+                       result: 
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail5?id=87481
+                    
