@@ -1,0 +1,19 @@
+
+                       date: 20171116
+                       result:  棄却
+                       verdict_type:supreme
+                       incident_id: 平成29(受)761
+                       incident_name: 再生債権査定異議事件
+                       court_name: 最高裁判所第一小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 東京高等裁判所
+                       previous_incident_id: 平成28(ネ)4185
+                       previous_judeged_at:20170118
+                       agenda_description:  再生債務者が無償行為若しくはこれと同視すべき有償行為の時に債務超過であること又はその無償行為等により債務超過になることは民事再生法１２７条３項に基づく否認権行使の要件か
+                       law_area: 
+                       law_description:  民事再生法１２７条３項
+                       summary_description:  再生債務者が無償行為若しくはこれと同視すべき有償行為の時に債務超過であること又はその無償行為等により債務超過になることは，民事再生法１２７条３項に基づく否認権行使の要件ではない。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87232
+                    
