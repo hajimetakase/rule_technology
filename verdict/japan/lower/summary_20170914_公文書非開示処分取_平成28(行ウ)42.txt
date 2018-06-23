@@ -1,0 +1,19 @@
+
+                       date: 20170914
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(行ウ)42
+                       incident_name: 公文書非開示処分取消等請求事件
+                       court_name: 神戸地方裁判所 　第２民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87220
+                    
