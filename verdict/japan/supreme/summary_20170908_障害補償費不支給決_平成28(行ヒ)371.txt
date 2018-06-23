@@ -1,0 +1,19 @@
+
+                       date: 20170908
+                       result:  破棄自判
+                       verdict_type:supreme
+                       incident_id: 平成28(行ヒ)371
+                       incident_name: 障害補償費不支給決定取消等請求事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 福岡高等裁判所
+                       previous_incident_id: 平成27(行コ)29
+                       previous_judeged_at:20160616
+                       agenda_description:  公害健康被害の補償等に関する法律４条２項の認定を受けた者が原因者に対する損害賠償請求訴訟の判決により確定された損害賠償義務の全ての履行を既に受けている場合における都道府県知事の同法に基づく障害補償費の支給義務
+                       law_area: 
+                       law_description:  公害健康被害の補償等に関する法律１条，公害健康被害の補償等に関する法律３条１項，公害健康被害の補償等に関する法律４条２項，公害健康被害の補償等に関する法律１３条１項，公害健康被害の補償等に関する法律２５条１項
+                       summary_description:  都道府県知事は，公害健康被害の補償等に関する法律４条２項の認定を受けた者が，当該認定に係る疾病による健康被害について原因者に対する損害賠償請求訴訟を提起して判決を受け，これにより確定された損害賠償義務の全ての履行を既に受けている場合には，同法に基づく障害補償費の支給義務の全てを免れる。
+                       result:  破棄自判
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87053
+                    
