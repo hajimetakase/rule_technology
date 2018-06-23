@@ -1,0 +1,19 @@
+
+                       date: 20171002
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(行ウ)250
+                       incident_name: 不当労働行為救済命令取消請求事件
+                       court_name: 大阪地方裁判所 　第５民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  市立小学校の英語指導助手である労働組合員らについて，市立小学校の卒業式への出席を認めなかったことが労働組合法7条１号本文前段，３号及び４号の不当労働行為に該当するとはいえず，市議会本会議における市の対応についての答弁が同法７条３号の不当労働行為に該当するとはいえないとして，不当労働行為救済命令が取り消された事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87245
+                    
