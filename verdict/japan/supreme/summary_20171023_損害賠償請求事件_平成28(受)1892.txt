@@ -1,0 +1,19 @@
+
+                       date: 20171023
+                       result:  破棄差戻
+                       verdict_type:supreme
+                       incident_id: 平成28(受)1892
+                       incident_name: 損害賠償請求事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 大阪高等裁判所
+                       previous_incident_id: 平成28(ネ)37
+                       previous_judeged_at:20160629
+                       agenda_description:  個人情報の漏えいを理由とする損害賠償請求訴訟における損害に関する原審の判断に審理不尽の違法があるとされた事例
+                       law_area: 
+                       law_description:  
+                       summary_description:  
+                       result:  破棄差戻
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87154
+                    
