@@ -1,0 +1,19 @@
+
+                       date: 20171018
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(行コ)19
+                       incident_name: 法人税更正処分取消等請求控訴事件
+                       court_name: 名古屋高等裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  １ 内国法人に係る特定外国子会社等の行う地域統括業務が租税特別措置法（ 平成２ １ 年法律第１ ３ 号による改正前のもの又は平成２ ２ 年法律第６ 号による改正前のもの） ６ ６ 条の６ 第３ 項にいう株式の保有に係る事業に含まれるとはいえないとされた事例。 ２ 内国法人に係る特定外国子会社等の行う地域統括業務が租税特別措置法（ 平成２ １ 年法律第１ ３ 号による改正前のもの又は平成２ ２ 年法律第６ 号による改正前のもの） ６ ６ 条の６ 第３ 項及び４ 項にいう主たる事業であるとされた事例。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87705
+                    
