@@ -1,0 +1,19 @@
+
+                       date: 20170707
+                       result:  その他
+                       verdict_type:supreme
+                       incident_id: 平成28(受)222
+                       incident_name: 地位確認等請求事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 判決
+                       book: ()
+                       previous_court_type: 東京高等裁判所
+                       previous_incident_id: 平成27(ネ)3329
+                       previous_judeged_at:20151007
+                       agenda_description:  医療法人と医師との間の雇用契約において時間外労働等に対する割増賃金を年俸に含める旨の合意がされていたとしても，当該年俸の支払により時間外労働等に対する割増賃金が支払われたということはできないとされた事例
+                       law_area: 
+                       law_description:  労働基準法３７条
+                       summary_description:  医療法人と医師との間の雇用契約において時間外労働等に対する割増賃金を年俸に含める旨の合意がされていたとしても，当該年俸のうち時間外労働等に対する割増賃金に当たる部分が明らかにされておらず，通常の労働時間の賃金に当たる部分と割増賃金に当たる部分とを判別することができないという事情の下では，当該年俸の支払により，時間外労働等に対する割増賃金が支払われたということはできない。
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=86897
+                    
