@@ -1,0 +1,19 @@
+
+                       date: 20171226
+                       result:  その他
+                       verdict_type:lower
+                       incident_id: 平成29(行コ)68
+                       incident_name: 公務外認定処分取消請求控訴事件
+                       court_name: 大阪高等裁判所 　第14民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  保健所の自動車運転手として勤務していた大阪府職員が，東日本大震災直後の被災地支援のため２回にわたり岩手県内に派遣され，保健師らと構成した公衆衛生チームの一員として避難所等を巡回する自動車運転業務に従事していたところ，上記２回目の派遣３日目の勤務終了後の夜間，宿泊先でくも膜下出血のため病院に搬送され，その６日後に死亡した事案につき，上記業務はくも膜下出血の発症要因となり得る程度の高度の負荷であったというべきであり，また，前駆症状の頭痛が生じた後も上記業務を継続せざるを得なかったこと等によって早期の治療機会を喪失したといえるとして，上記発症による死亡は地方公務員災害補償法にいう公務上の死亡に当たると判断して，被控訴人（地方公務員災害補償基金）大阪府支部長が控訴人（上記職員の妻）に対してした公務外認定処分を取り消した事例。
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87462
+                    
