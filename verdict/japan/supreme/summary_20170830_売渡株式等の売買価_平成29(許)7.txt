@@ -1,0 +1,19 @@
+
+                       date: 20170830
+                       result:  棄却
+                       verdict_type:supreme
+                       incident_id: 平成29(許)7
+                       incident_name: 売渡株式等の売買価格決定申立て却下決定に対する抗告棄却決定に対する許可抗告事件
+                       court_name: 最高裁判所第二小法廷
+                       process_type: 決定
+                       book: ()
+                       previous_court_type: 東京高等裁判所
+                       previous_incident_id: 平成28(ラ)1604
+                       previous_judeged_at:20170131
+                       agenda_description:  会社法１７９条の４第１項１号の通知又は同号及び社債，株式等の振替に関する法律１６１条２項の公告がされた後に会社法１７９条の２第１項２号に規定する売渡株式を譲り受けた者が，同法１７９条の８第１項の売買価格の決定の申立てをすることの可否
+                       law_area: 
+                       law_description:  会社法１７９条１項，会社法１７９条の４第１項１号，会社法１７９条の８第１項，社債，株式等の振替に関する法律１６１条２項
+                       summary_description:  会社法１７９条の４第１項１号の通知又は同号及び社債，株式等の振替に関する法律１６１条２項の公告がされた後に会社法１７９条の２第１項２号に規定する売渡株式を譲り受けた者は，同法１７９条の８第１項の売買価格の決定の申立てをすることができない。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=87040
+                    
