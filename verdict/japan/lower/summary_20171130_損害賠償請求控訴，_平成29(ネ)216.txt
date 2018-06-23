@@ -1,0 +1,19 @@
+
+                       date: 20171130
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(ネ)216
+                       incident_name: 損害賠償請求控訴，同附帯控訴事件
+                       court_name: 名古屋高等裁判所 　民事第１部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  被告会社に勤務していたＥの父母である原告らが，Ｅが自殺をしたのは，①先輩従業員である被告Ａ及びＣがＥに対し繰り返し注意・叱責をした，②被告会社は，被告Ａ及びＣのＥに対する注意・叱責を制止ないし改善させず，また，Ｅの業務内容の変更を行わなかった，③上記①，②の結果，Ｅは，強い心理的負荷を受けてうつ状態に陥り，自殺するに至ったなどと主張して，被告らに対し損害賠償金を求めた件につき，被告Ａ及びＣの叱責行為は不法行為に該当し，被告会社はこれにつき使用者責任を負うものの，配置転換後のＥの業務の負担がＥの自殺の原因と認められないとして原告らの請求を一部認容した原判決について，被告会社の不法行為（使用者責任）とＥの自殺との間には相当因果関係があり，被告会社はＥの自殺について予見可能性があったとして，原判決が一部変更された事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87566
+                    
