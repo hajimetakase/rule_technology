@@ -1,0 +1,19 @@
+
+                       date: 20170908
+                       result: 
+                       verdict_type:administrative
+                       incident_id: 平成29(行ウ)365
+                       incident_name: 代理援助不開始決定取消請求事件
+                       court_name: 東京地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  日本司法支援センターの機関が行う代理援助の開始又は不開始の決定は，抗告訴訟の対象となる行政処分に当たらない。
+                       result: 
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail5?id=87504
+                    
