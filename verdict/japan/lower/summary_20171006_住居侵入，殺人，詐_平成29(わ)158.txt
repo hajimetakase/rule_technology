@@ -1,0 +1,19 @@
+
+                       date: 20171006
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(わ)158
+                       incident_name: 住居侵入，殺人，詐欺，窃盗被告事件
+                       court_name: 札幌地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  以下の事実について懲役１８年の刑を言い渡した裁判員裁判の事例 １　住宅リフォーム工事の訪問販売等を業として行っていた被告人が，経営会社が数回にわたり特定商取引に関する法律に基づく業務停止命令等の行政処分を受けるなどした背景には被害者が関係機関等に告発等を繰り返していたことがあると考え，被害者を恨むようになり，被害者を殺害する目的で被害者の居宅に侵入し，殺意を持って，刃物で胸部を突き刺して死亡させた住居侵入・殺人の事実 ２　代金を支払う意思もないのにガソリンの給油を受けた詐欺の事実２件 ３　カセットガスストーブや書籍を窃取した窃盗の事実２件
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87194
+                    
