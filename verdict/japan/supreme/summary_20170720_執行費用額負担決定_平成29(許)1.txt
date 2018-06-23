@@ -1,0 +1,19 @@
+
+                       date: 20170720
+                       result:  棄却
+                       verdict_type:supreme
+                       incident_id: 平成29(許)1
+                       incident_name: 執行費用額負担決定に対する抗告棄却決定に対する許可抗告事件
+                       court_name: 最高裁判所第一小法廷
+                       process_type: 決定
+                       book: ()
+                       previous_court_type: 東京高等裁判所
+                       previous_incident_id: 平成28(ラ)1919
+                       previous_judeged_at:20161129
+                       agenda_description:  既にした執行処分の取消し等により強制執行が目的を達せずに終了した場合における執行費用の負担
+                       law_area: 
+                       law_description:  民事執行法２０条，民事執行法４２条１項，民訴法６２条，民訴法７３条
+                       summary_description:  既にした執行処分の取消し等により強制執行が目的を達せずに終了した場合における執行費用の負担は，執行裁判所が，民事執行法２０条において準用する民訴法７３条の規定に基づいて定めるべきである。
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=86943
+                    
