@@ -1,0 +1,19 @@
+
+                       date: 20170711
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成28(行コ)77
+                       incident_name: 
+                       court_name: 東京高等裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=86934
+                    
