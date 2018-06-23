@@ -1,0 +1,19 @@
+
+                       date: 20170711
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(わ)184
+                       incident_name: 殺人未遂被告事件
+                       court_name: 札幌地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  被告人が，被害者に対し，その頭部をつるはしで殴打し，脳挫傷等の傷害を負わせた殺人未遂被告事件において，殺意を認めた上，被告人に懲役３年を言い渡した事例
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87001
+                    
