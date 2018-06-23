@@ -1,0 +1,19 @@
+
+                       date: 20171025
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29特(わ)1605
+                       incident_name: 成田国際空港株式会社法違反被告事件
+                       court_name: 東京地方裁判所 　刑事第1部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87222
+                    
