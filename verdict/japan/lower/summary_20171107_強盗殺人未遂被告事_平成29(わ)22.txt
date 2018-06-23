@@ -1,0 +1,19 @@
+
+                       date: 20171107
+                       result:  
+                       verdict_type:lower
+                       incident_id: 平成29(わ)22
+                       incident_name: 強盗殺人未遂被告事件
+                       court_name: 札幌地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  多量の酒を飲みかなり強く酔った状態で，通行人を襲って金品を奪い取ろうと思い立ち，購入したカッターナイフで殺意をもって被害者の胸部を突き刺すなどして反抗を抑圧し，同人所有の携帯電話機１台在中のダウンベスト１着（時価合計約１万２０００円相当）を強取したものの，同人に全治約１か月間を要する胸部刺創による左外傷性血気胸等の傷害を負わせるにとどまり殺害の目的を遂げなかった事案において，犯行当時アルコールによる複雑酩酊の影響で精神障害の状態を来し心神耗弱の状態にあったとして法律上の減軽をし，懲役８年を言い渡した事例。
+                       result:  
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87265
+                    
