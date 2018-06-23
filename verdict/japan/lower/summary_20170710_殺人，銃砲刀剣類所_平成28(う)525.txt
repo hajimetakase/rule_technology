@@ -1,0 +1,19 @@
+
+                       date: 20170710
+                       result:  棄却
+                       verdict_type:lower
+                       incident_id: 平成28(う)525
+                       incident_name: 殺人，銃砲刀剣類所持等取締法違反被告事件
+                       court_name: 福岡高等裁判所 　第三刑事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  
+                       result:  棄却
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=86967
+                    
