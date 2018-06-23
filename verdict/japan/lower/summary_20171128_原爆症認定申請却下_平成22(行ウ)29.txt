@@ -1,0 +1,19 @@
+
+                       date: 20171128
+                       result:  その他
+                       verdict_type:lower
+                       incident_id: 平成22(行ウ)29
+                       incident_name: 原爆症認定申請却下処分取消等請求事件
+                       court_name: 広島地方裁判所
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  被爆者援護法１１条１項の規定による認定申請に対する厚生労働大臣による却下処分は違法であるとして，原告らが処分の取消しを求めるとともに国家賠償法１条１項に基づく慰謝料を請求した事案について，一部の原告らに対し，原処分が撤回され新たに認定処分がされたことにより法律上の利益がないものとして取消しを求めた部分を却下し，その余の原告らにつき申請疾病に放射線起因性はいずれも認められず，被告の国家賠償法上の違法性も認められないとして，原告らのその余の請求を棄却した事例
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87812
+                    
