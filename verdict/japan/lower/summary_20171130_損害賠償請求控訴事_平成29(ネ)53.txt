@@ -1,0 +1,19 @@
+
+                       date: 20171130
+                       result:  その他
+                       verdict_type:lower
+                       incident_id: 平成29(ネ)53
+                       incident_name: 損害賠償請求控訴事件
+                       court_name: 大阪高等裁判所 　第１４民事部
+                       process_type:
+                       book: ()
+                       previous_court_type:
+                       previous_incident_id:
+                       previous_judeged_at:
+                       agenda_description: 
+                       law_area: 
+                       law_description: 
+                       summary_description:  １　公益財団法人大阪国際平和センターがその設置運営する平和資料館「ピースおおさか」に展示する戦争と平和に関する資料について展示リニューアル事業を行うにあたり作成したリニューアル後の展示内容の詳細を記載した文書を保有している大阪府が，リニューアルオープン前に大阪府情報公開条例（平成１１年大阪府条例第３９号）に基づき当該文書の公開請求を受けた場合において，当該文書に記録されている情報が同条例８条１項１号所定の非公開情報に該当するとは認められないとされた事例 ２　大阪府知事が，大阪府情報公開条例に基づき公開請求がされた前記１の文書に記録されている情報につき同条例８条１項所定の非公開情報に該当すると判断して上記文書につき非公開決定をしたことが，職務上通常尽くすべき注意義務を尽くすことなく漫然と決定したもので国家賠償法上違法であるとして，大阪府に対する国家賠償請求が認められた事例
+                       result:  その他
+                       detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=87294
+                    
