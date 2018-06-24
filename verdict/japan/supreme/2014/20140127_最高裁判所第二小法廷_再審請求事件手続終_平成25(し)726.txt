@@ -1,0 +1,36 @@
+
+date: 20140127
+result:  棄却
+verdict_type:supreme
+incident_id: 平成25(し)726
+incident_name: 再審請求事件手続終了決定に対する特別抗告事件
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第313号3頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:20131202
+agenda_description:  有罪の言渡しを受けた者の養子である申立人の死亡を理由とする旧刑訴法による再審請求事件の手続終了宣言に対する特別抗告が棄却された事例
+law_area: 
+law_description:  刑訴法施行法2条，刑訴応急措置法18条，旧刑訴法466条1項，旧刑訴法492条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=83980
+
+verdict:
+
+ 
+平成２５年（し）第７２６号 再審請求事件手続終了決定に対する特別抗告事件 
+平成２６年１月２７日 第二小法廷決定 
+ 
+            主     文 
+       本件抗告を棄却する。 
+            理     由 
+ 本件抗告の趣意は，単なる法令違反の主張であって，刑訴応急措置法１８条の適
+法な抗告の理由に当たらない。 
+ よって，刑訴法施行法２条，旧刑訴法４６６条１項により，裁判官全員一致の意
+見で，主文のとおり決定する。 
+(裁判長裁判官 山本庸幸 裁判官 千葉勝美 裁判官 小貫芳信 裁判官 
+鬼丸かおる) 
+
+                    
