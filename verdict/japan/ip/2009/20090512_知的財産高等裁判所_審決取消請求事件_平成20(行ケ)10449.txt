@@ -1,0 +1,62 @@
+
+date: 20090512
+result: 
+verdict_type:ip
+incident_id: 平成20(行ケ)10449
+incident_name: 審決取消請求事件
+court_name: 知的財産高等裁判所
+process_type:
+book: 
+previous_court_name:
+previous_incident_id:
+previous_judeged_at:
+agenda_description:  商標権
+law_area:  行政訴訟
+law_description: 
+summary_description: 
+result: 
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail7?id=37603
+
+verdict:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
