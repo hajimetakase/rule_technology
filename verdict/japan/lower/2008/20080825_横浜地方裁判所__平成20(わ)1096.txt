@@ -1,0 +1,39 @@
+
+date: 20080825
+result:  その他
+verdict_type:lower
+incident_id: 平成20(わ)1096
+incident_name: 
+court_name: 横浜地方裁判所
+process_type:
+book: 
+previous_court_name:
+previous_incident_id:
+previous_judeged_at:
+agenda_description: 
+law_area: 
+law_description: 
+summary_description:  
+result:  その他
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=38696
+
+verdict:
+
+２０わ１０９６
+横浜地裁 平成２０・８・２５
+３１６条の２５第１項 その他
+   主  文
+1 弁護人は，上記各証拠を謄写することができる。
+2 弁護人は，上記各証拠の写しを被告人又は第三者に交付し，又は閲覧若しくは謄写さ
+せてはならない。
+   理  由
+本件請求の趣旨及び理由は，検察官作成の「裁定請求書」第2項，第3項に記載のとおり
+であるから，これを引用する。
+そこで検討すると，被告人の防御権及び弁護人の弁護権を全うさせる一方，目撃者に働
+きかける等の方法による罪証隠滅工作を防ぎ，上記各証拠（供述調書）の供述者の保護を
+図るためには，主文第2項の条件を付した上，弁護人に上記各証拠の謄写を許すことが相当
+である。
+そこで，刑訴法316条の25第1項により，主文のとおり決定する。
+（裁判長裁判官・鈴木秀行，裁判官・野澤晃一，裁判官・林真利子）
+
+                    
