@@ -1,0 +1,38 @@
+
+date: 20120326
+result:  棄却
+verdict_type:supreme
+incident_id: 平成24(あ)148
+incident_name: 道路交通法違反，自動車運転過失傷害被告事件
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第307号759頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:20111220
+agenda_description:  補佐人提出の上告趣意を判断対象とした事例
+law_area: 
+law_description:  刑訴法42条，刑訴法376条１項，刑訴法407条，刑訴法414条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=82237
+
+verdict:
+
+- 1 -
+平成２４年（あ）第１４８号 道路交通法違反，自動車運転過失傷害被告事件 
+平成２４年３月２６日 第三小法廷決定 
+ 
+            主     文 
+       本件上告を棄却する。 
+            理     由 
+ 弁護人東山尋明の上告趣意は，憲法違反をいう点を含め，実質は事実誤認，量刑
+不当の主張であり，補佐人Ａの上告趣意は，事実誤認，単なる法令違反の主張であ
+って，いずれも刑訴法４０５条の上告理由に当たらない。 
+ よって，同法４１４条，３８６条１項３号，１８１条１項ただし書により，裁判
+官全員一致の意見で，主文のとおり決定する。 
+(裁判長裁判官 寺田逸郎 裁判官 田原睦夫 裁判官 岡部喜代子 裁判官  
+大谷剛彦 裁判官 大橋正春) 
+ 
+
+                    
