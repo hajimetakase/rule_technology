@@ -13,9 +13,9 @@ previous_judeged_at:
 agenda_description: 
 law_area: 
 law_description: 
-summary_description:  市助役であった被告人両名が，1.市消防局幹部らと共謀の上，虚偽の内容の試験成績に関する文書を作成し，同局に備え付けて行使し，2.市消防局長と共謀の上，能力の実証に基づかない市消防吏員の任用を企て（地方公務員法違反），かつ，3.市長と共謀の上，能力の実証に基づかない市職員の任用を企てた（同法違反）という事案において，各被告人が執行猶予付き懲役刑に処せられた事例
+summary_description:  市助役であった被告人両名が，?市消防局幹部らと共謀の上，虚偽の内容の試験成績に関する文書を作成し，同局に備え付けて行使し，?市消防局長と共謀の上，能力の実証に基づかない市消防吏員の任用を企て（地方公務員法違反），かつ，?市長と共謀の上，能力の実証に基づかない市職員の任用を企てた（同法違反）という事案において，各被告人が執行猶予付き懲役刑に処せられた事例
 result:  
-detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=34490
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=34484
 
 verdict:
 
