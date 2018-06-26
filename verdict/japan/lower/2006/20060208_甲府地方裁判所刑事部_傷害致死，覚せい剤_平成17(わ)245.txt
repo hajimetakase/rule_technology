@@ -15,7 +15,7 @@ law_area:
 law_description: 
 summary_description:  
 result:  
-detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=33229
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=33160
 
 verdict:
 
