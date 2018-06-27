@@ -1,0 +1,24 @@
+
+date: 20030313
+result:  
+verdict_type:lower
+incident_id: 平成14(わ)495
+incident_name: 強制執行妨害，あっせん収賄
+court_name: 水戸地方裁判所
+process_type:
+book: 
+previous_court_name:
+previous_incident_id:
+previous_judeged_at:
+agenda_description: 
+law_area: 
+law_description: 
+summary_description:  
+result:  
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=6238
+
+verdict:
+
+
+
+                    
