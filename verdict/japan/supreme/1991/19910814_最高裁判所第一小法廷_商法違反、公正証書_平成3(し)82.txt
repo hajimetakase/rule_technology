@@ -1,0 +1,39 @@
+
+date: 19910814
+result:  棄却
+verdict_type:supreme
+incident_id: 平成3(し)82
+incident_name: 商法違反、公正証書原本不実記載、同行使被告事件についてした保釈許可決定に対する抗告申立についての決定に対する特別抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第258号67頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19910729
+agenda_description:  保釈却下決定に対する特別抗告申立てがされた後，申立人が勾留執行停止決定により釈放された場合の特別抗告の効力
+law_area: 
+law_description:  刑訴法88条2項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=57946
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　記録によると、申立人は、平成三年八月一二日勾留執行停止決定により釈放され
+たことが明らかであるから、本件抗告の申立ては、現在においてはもはや法律上の
+利益を欠き、不適法である。
+　よって、刑訴法四三四条、四二六条一項により、裁判官全員一致の意見で、主文
+のとおり決定する。
+　　平成三年八月一四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　内　　　恒　　　夫
+　　　　　　　　　　　　裁判官　　　　四　ツ　谷　　　　　　　巖
+　　　　　　　　　　　　裁判官　　　　大　　　堀　　　誠　　　一
+　　　　　　　　　　　　裁判官　　　　橋　　　元　　　四　郎　平
+　　　　　　　　　　　　裁判官　　　　味　　　村　　　　　　　治
+- 1 -
+
+                    
