@@ -1,0 +1,37 @@
+
+date: 19911203
+result:  棄却
+verdict_type:supreme
+incident_id: 平成3(し)118
+incident_name: 業務上過失傷害、道路運送車両法違反保護事件についてした抗告棄却決定に対する再抗告の申立
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第258号891頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19911023
+agenda_description:  原判断を論難するものではないとして再抗告の申立てが不適法とされた事例
+law_area: 
+law_description:  少年法35条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=57938
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件抗告の趣意は、原原決定に対する抗告を申立て期間経過後の不適法なものと
+した原判断を論難するものではなく、少年法三五条一項の抗告理由に当たらない。
+　よって、少年審判規則五三条一項、五四条、五〇条により、裁判官全員一致の意
+見で、主文のとおり決定する。
+　　平成三年一二月三日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　西　　　勝　　　也
+　　　　　　　　　　　　裁判官　　　　藤　　　島　　　　　　　昭
+　　　　　　　　　　　　裁判官　　　　中　　　島　　　敏　次　郎
+　　　　　　　　　　　　裁判官　　　　木　　　崎　　　良　　　平
+- 1 -
+
+                    
