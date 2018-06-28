@@ -1,0 +1,36 @@
+
+date: 19900228
+result:  棄却
+verdict_type:supreme
+incident_id: 平成1(あ)597
+incident_name: 外国人登録法違反
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第254号115頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19890426
+agenda_description:  免訴判決に対し被告人が上訴することの可否
+law_area: 
+law_description:  刑訴法414条，刑訴法385条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=57894
+
+verdict:
+
+　右の者に対する外国人登録法違反被告事件について、平成元年四月二六日東京高
+等裁判所が言い渡した免訴の判決に対し、被告人から上告の申立があったが、免訴
+の判決に対して被告人が上訴することは許されないから、刑訴法四一四条、三八五
+条一項により、裁判官全員一致の意見で、次のとおり決定する。
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　平成二年二月二八日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　奥　　　野　　　久　　　之
+　　　　　　　　　　　　裁判官　　　　藤　　　島　　　　　　　昭
+　　　　　　　　　　　　裁判官　　　　香　　　川　　　保　　　一
+　　　　　　　　　　　　裁判官　　　　中　　　島　　　敏　次　郎
+- 1 -
+
+                    
