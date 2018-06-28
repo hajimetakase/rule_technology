@@ -1,0 +1,33 @@
+
+date: 19911217
+result:  その他
+verdict_type:supreme
+incident_id: 昭和62(あ)1351
+incident_name: 贈賄、外国為替及び外国貿易管理法違反、議院における証人の宣誓及び証言等に関する法律違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第258号905頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19870729
+agenda_description:  いわゆるロッキード・丸紅ルート事件(被告人死亡による公訴棄却)
+law_area: 
+law_description:  
+summary_description:  
+result:  その他
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58450
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件公訴を棄却する。
+　　平成三年一二月一七日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　四　ツ　谷　　　　　巖
+　　　　　　　　　　　　裁判官　　　　大　　　内　　恒　　夫
+　　　　　　　　　　　　裁判官　　　　橋　　　元　四　郎　平
+　　　　　　　　　　　　裁判官　　　　味　　　村　　　　　治
+　　　　　　　　　　　　
+- 1 -
+
+                    
