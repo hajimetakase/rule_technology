@@ -1,0 +1,35 @@
+
+date: 20020604
+result:  棄却
+verdict_type:supreme
+incident_id: 平成13(し)299
+incident_name: 検察官のした保管記録謄写不許可処分に対する準抗告棄却決定に対する特別抗告事件
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第281号515頁
+previous_court_name: 東京地方裁判所
+previous_incident_id: 
+previous_judeged_at:20010914
+agenda_description:  検察官のした保管記録謄写不許可処分に対する準抗告の可否
+law_area: 
+law_description:  刑事確定訴訟記録法8条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=57839
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　検察官の本件処分は，刑事確定訴訟記録法８条１項にいう「閲覧に関する処分」
+に当たらないから，本件準抗告の申立てが不適法であるとした原決定は，正当であ
+る。したがって，これが適法であることを前提とする本件抗告の申立ても不適法で
+ある。
+　よって，刑訴法４３４条，４２６条１項により，裁判官全員一致の意見で，主文
+のとおり決定する。
+(裁判長裁判官　深澤武久　裁判官　井嶋一友　裁判官　藤井正雄　裁判官　町田
+　顯　裁判官　横尾和子）
+- 1 -
+
+                    
