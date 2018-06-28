@@ -1,0 +1,27 @@
+
+date: 20020508
+result:  
+verdict_type:lower
+incident_id: 平成14(わ)19
+incident_name: 危険運転致死傷
+court_name: 津地方裁判所
+process_type:
+book: 
+previous_court_name:
+previous_incident_id:
+previous_judeged_at:
+agenda_description: 
+law_area: 
+law_description: 
+summary_description:  
+result:  
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail4?id=7833
+
+verdict:
+
+
+
+
+
+
+                    
