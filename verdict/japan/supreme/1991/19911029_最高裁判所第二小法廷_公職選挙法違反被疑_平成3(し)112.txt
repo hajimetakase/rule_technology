@@ -1,0 +1,38 @@
+
+date: 19911029
+result:  棄却
+verdict_type:supreme
+incident_id: 平成3(し)112
+incident_name: 公職選挙法違反被疑事件について地方裁判所がした勾留期間延長の裁判に対する準抗告棄却決定に対する特別抗告
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第258号271頁
+previous_court_name: 浦和地方裁判所 　川越支部
+previous_incident_id: 
+previous_judeged_at:19911009
+agenda_description:  勾留期間延長の裁判の取消しを求める特別抗告の申立てがされた後に申立人が釈放された場合の特別抗告の効力
+law_area: 
+law_description:  刑訴法208条2項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=57937
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　職権により調査すると、申立人は、平成三年一〇月一五日釈放されたことが明ら
+かであるから、勾留期間延長の裁判の取消しを求める本件抗告は、法律上の利益を
+欠き、不適法である。
+　よって、刑訴法四三四条、四二六条一項により、裁判官全員一致の意見で、主文
+のとおり決定する。
+　　平成三年一〇月二九日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　中　　　島　　　敏　次　郎
+　　　　　　　　　　　　裁判官　　　　藤　　　島　　　　　　　昭
+　　　　　　　　　　　　裁判官　　　　木　　　崎　　　良　　　平
+　　　　　　　　　　　　裁判官　　　　大　　　西　　　勝　　　也
+- 1 -
+
+                    
