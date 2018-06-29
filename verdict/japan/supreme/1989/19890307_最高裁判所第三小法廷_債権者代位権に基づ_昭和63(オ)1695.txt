@@ -1,0 +1,38 @@
+
+date: 19890307
+result:  却下
+verdict_type:supreme
+incident_id: 昭和63(オ)1695
+incident_name: 債権者代位権に基づく利益金分配請求事件
+court_name: 最高裁判所第三小法廷
+process_type: 判決
+book:  集民　第156号295頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 昭和63(ネ)53
+previous_judeged_at:19880809
+agenda_description:  補助参加人の上告提起後にされた被参加人の上告の適否
+law_area: 
+law_description:  民訴法69条，民訴法231条，民訴法378条，民訴法396条
+summary_description:  補助参加人が上告を提起した後に被参加人のした上告は、二重上告として不適法である。
+result:  却下
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=62385
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を却下する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　記録によれば、上告人が本件上告を提起した時には、既に上告補助参加人が上告
+を提起していたことが明らかであるから、上告人の本件上告は、二重上告であり、
+不適法として却下すべきである。�
+　よつて、民訴法三九九条ノ三、九五条、八九条に従い、裁判官全員一致の意見で、
+主文のとおり判決する。
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　貞　　　家　　　克　　　己
+　　　　　　　　　　　　裁判官　　　　伊　　　藤　　　正　　　己
+　　　　　　　　　　　　裁判官　　　　安　　　岡　　　滿　　　彦
+　　　　　　　　　　　　裁判官　　　　坂　　　上　　　壽　　　夫
+- 1 -
+
+                    
