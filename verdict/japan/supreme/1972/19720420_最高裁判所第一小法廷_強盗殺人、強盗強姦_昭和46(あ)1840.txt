@@ -1,0 +1,42 @@
+
+date: 19720420
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和46(あ)1840
+incident_name: 強盗殺人、強盗強姦、尊属殺
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第184号157頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19710721
+agenda_description:  死刑事件
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59653
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人金原政太郎の上告趣意は、単なる法令違反、事実誤認、量刑不当の主張で
+あつて、刑訴法四〇五条の上告理由にあたらない。原判決が、被告人に死刑を科し
+た第一審判決を維持したのは、本件犯罪の情状に照らして、まことにやむをえない
+と認められる。その他、所論の点につき、記録を調べても、刑訴法四一一条に該当
+する事由があるものとは認められない。
+　よつて、刑訴法四一四条、三九六条、一八一条一項但書により、裁判官全員一致
+の意見で、主文のとおり判決する。
+　検察官高橋正八　公判出席
+　　昭和四七年四月二〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岩　　　田　　　　　　　誠
+　　　　　　　　　　　　裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+- 1 -
+
+                    
