@@ -1,0 +1,42 @@
+
+date: 19830222
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和57(あ)1626
+incident_name: 殺人、殺人未遂
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第230号137頁
+previous_court_name: 高松高等裁判所
+previous_incident_id: 
+previous_judeged_at:19821018
+agenda_description:  未必的殺意ではなく確定的殺意を認めた原判断に首肯しえない点があるが、いまだ刑訴法四一一条を適用すべきではないとされた事例
+law_area: 
+law_description:  刑法199条，刑訴法411条3号
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58242
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人中久木邦宏の上告趣意は、事実誤認、量刑不当の主張であつて、刑訴法四
+〇五条の上告理由にあたらない。
+　なお、記録によれば、少なくとも被害者Ａに対する被告人の殺意は、むしろ未必
+的なものであつたと認めるのが相当であり、確定的殺意の存在を認めた原判断には
+首肯しえない点があるが、いまだ刑訴法四一一条を適用すべきものとは認められな
+い。
+　よつて、同法四一四条、三八六条一項三号、一八一条一項但書により、裁判官全
+員一致の意見で、主文のとおり決定する。
+　　昭和五八年二月二二日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　中　　　村　　　治　　　朗
+　　　　　　　　　　　　裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　谷　　　口　　　正　　　孝
+　　　　　　　　　　　　裁判官　　　　和　　　田　　　誠　　　一
+- 1 -
+
+                    
