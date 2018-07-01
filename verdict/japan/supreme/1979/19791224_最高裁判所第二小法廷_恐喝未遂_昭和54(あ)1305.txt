@@ -1,0 +1,41 @@
+
+date: 19791224
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和54(あ)1305
+incident_name: 恐喝未遂
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第216号729頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19790628
+agenda_description:  憲法三七条一項（迅速裁判条項）違反の主張が欠前提とされた事例
+law_area: 
+law_description:  憲法37条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60329
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人金綱正已の上告趣意は、憲法三七条一項違反をいうが、記録上認められる
+本件公訴提起の事情、第一審の審理経過に徴すれば、本件の審理が著しく遅延した
+とは認められないことが明らかであるから、所論は、前提を欠く違憲の主張であつ
+て、刑訴法四〇五条の上告理由にあたらない。
+　よつて、同法四一四条、三八六条一項三号、一八一条一項本文により、裁判官全
+員一致の意見で、主文のとおり決定する。
+　　昭和五四年一二月二四日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　塚　　　本　　　重　　　頼
+　　　　　　　　　　　　裁判官　　　　大　　　塚　　　喜　一　郎
+　　　　　　　　　　　　裁判官　　　　栗　　　本　　　一　　　夫
+　　　　　　　　　　　　裁判官　　　　木　　　下　　　忠　　　良
+　　　　　　　　　　　　裁判官　　　　鹽　　　野　　　宜　　　慶
+- 1 -
+
+                    
