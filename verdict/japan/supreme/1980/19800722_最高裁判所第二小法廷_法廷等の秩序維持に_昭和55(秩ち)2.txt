@@ -1,0 +1,41 @@
+
+date: 19800722
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和55(秩ち)2
+incident_name: 法廷等の秩序維持に関する法律による制裁事件についてした抗告棄却決定に対する特別抗告
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第218号271頁
+previous_court_name: 広島高等裁判所 　松江支部
+previous_incident_id: 
+previous_judeged_at:19800630
+agenda_description:  法廷等の秩序維持に関する法律による制裁の手続等と憲法三一条、三二条、三四条
+law_area: 
+law_description:  法秩法，憲法31条，憲法32条，憲法34
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=61792
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件抗告の趣意は、違憲をいうが、法廷等の秩序維持に関する法律による制裁の
+手続及び所論の点に関する原決定の解釈が、憲法三一条、三二条、三四条に違反す
+るものでないことは、当裁判所の判例（昭和二八年（秩ち）第一号同三三年一〇月
+一五日大法廷決定・刑集一二巻一四号三二九一頁）の趣旨に照らして明らかである
+から、所論は理由がない。
+　よつて、法廷等の秩序維持に関する規則一九条、一八条一項により、裁判官全員
+一致の意見で、主文のとおり決定する。
+　　昭和五五年七月二二日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　木　　　下　　　忠　　　良
+　　　　　　　　　　　　裁判官　　　　栗　　　本　　　一　　　夫
+　　　　　　　　　　　　裁判官　　　　塚　　　本　　　重　　　頼
+　　　　　　　　　　　　裁判官　　　　鹽　　　野　　　宜　　　慶
+　　　　　　　　　　　　裁判官　　　　宮　　　崎　　　梧　　　一
+- 1 -
+
+                    
