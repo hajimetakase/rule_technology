@@ -1,0 +1,40 @@
+
+date: 19781120
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和49(オ)60
+incident_name: 懲戒処分無効確認等
+court_name: 最高裁判所第二小法廷
+process_type: 判決
+book:  集民　第125号655頁
+previous_court_name: 広島高等裁判所
+previous_incident_id: 昭和44(ネ)279
+previous_judeged_at:19730925
+agenda_description:  休日出勤の業務命令を拒否した工員に対する減給処分が懲戒権の濫用として無効とされた事例
+law_area: 
+law_description:  労働基準法35条，労働基準法36条
+summary_description:  （省略）
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=64080
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　上告代理人磯部靖、同広沢道彦、同成富安信の上告理由第一点ないし第三点につ
+いて
+　所論の減給処分を懲戒権の濫用にあたるとした原審の認定判断は、原判決挙示の
+証拠関係に照らし、正当として是認することができ、原判決に所論の違法はない。論
+旨は、いずれも採用することができない。
+　よつて、民訴法四〇一条、九五条、八九条に従い、裁判官全員一致の意見で、主
+文のとおり判決する。
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　塚　　　喜　一　郎
+　　　　　　　　　　　　裁判官　　　　吉　　　田　　　　　　　豊
+　　　　　　　　　　　　裁判官　　　　本　　　林　　　　　　　讓
+　　　　　　　　　　　　裁判官　　　　栗　　　本　　　一　　　夫
+- 1 -
+
+                    
