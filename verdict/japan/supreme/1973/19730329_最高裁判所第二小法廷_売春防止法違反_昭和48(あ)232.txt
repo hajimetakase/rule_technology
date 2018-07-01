@@ -1,0 +1,39 @@
+
+date: 19730329
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和48(あ)232
+incident_name: 売春防止法違反
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第186号513頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19721222
+agenda_description:  原審において主張判断を経ていないとされた事例
+law_area: 
+law_description:  憲法14条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59894
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人白阪武の上告趣意中、憲法一四条違反をいう点は、原審において主張およ
+び判断を経ておらず、憲法三六条違反をいう点は、実質は量刑不当の主張であつて、
+いずれも刑訴法四〇五条の上告理由にあたらない。また、記録を調べても、同法四
+一一条を適用すべきものとは認められない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和四八年三月二九日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　岡　　　原　　　昌　　　男
+　　　　　　　　　　　　裁判官　　　　村　　　上　　　朝　　　一
+　　　　　　　　　　　　裁判官　　　　小　　　川　　　信　　　雄
+　　　　　　　　　　　　裁判官　　　　大　　　塚　　　喜　一　郎
+- 1 -
+
+                    
