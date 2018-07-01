@@ -1,0 +1,40 @@
+
+date: 19820709
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和57(あ)568
+incident_name: 覚せい剤取締法違反、関税法違反
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第228号185頁
+previous_court_name: 広島高等裁判所 　岡山支部
+previous_incident_id: 
+previous_judeged_at:19820312
+agenda_description:  共謀共同正犯における共謀の事実につき補強証拠を欠く旨の憲法三八条三項違反の主張が欠前提とされた事例
+law_area: 
+law_description:  憲法38条3項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58261
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人山下一盛、同杉本義昭連名の上告趣意第一点は、憲法三八条三項違反をい
+うが、被告人の自白は、原判決が認定の用に供したその余の証拠により十分補強さ
+れていると認められるから、所論は前提を欠き、その余は、事実誤認、量刑不当の
+主張であり、弁護人杉本義昭の上告趣意は、事実誤認、量刑不当の主張であつて、
+いずれも刑訴法四〇五条の上告理由にあたらない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五七年七月九日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　横　　　井　　　大　　　三
+　　　　　　　　　　　　裁判官　　　　伊　　　藤　　　正　　　己
+　　　　　　　　　　　　裁判官　　　　寺　　　田　　　治　　　郎
+　　　　　　　　　　　　裁判官　　　　木　戸　口　　　久　　　治
+- 1 -
+
+                    
