@@ -1,0 +1,41 @@
+
+date: 19731114
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和48(あ)1288
+incident_name: 業務上過失傷害
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第190号629頁
+previous_court_name: 広島高等裁判所
+previous_incident_id: 
+previous_judeged_at:19730507
+agenda_description:  判例違反の主張が事案を異にし不適法とされた事例（信頼の原則に関するもの）
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59851
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人角田光永の上告趣意第一は、判例違反をいうが、原判決によれば、本件は、
+被告人が交差点において右折するにあたり、あらかじめ道路中央に寄らず、かつ、
+交差点の中心直近内側から右折を開始せず、一旦道路左側に寄つた場合であるとい
+うのであるから、所論引用の判例と事案を異にし、本件に適切でなく、同第二ない
+し第四は、単なる法令違反、事実誤認の主張であつて、いずれも刑訴法四〇五条の
+上告理由にあたらない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和四八年一一月一四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+- 1 -
+
+                    
