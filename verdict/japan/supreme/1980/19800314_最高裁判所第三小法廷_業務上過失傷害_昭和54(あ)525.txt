@@ -1,0 +1,41 @@
+
+date: 19800314
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和54(あ)525
+incident_name: 業務上過失傷害
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第217号225頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19790227
+agenda_description:  憲法三八条違反の主張を欠前提で処理した事例
+law_area: 
+law_description:  憲法38条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60355
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　被告人本人の上告趣意のうち、憲法三八条違反をいう点は、記録を調べても、被
+告人の供述調書が所論のような経緯で作成されたとは認められないから、前提を欠
+き、憲法三七条違反をいう点は、記録を調べても、被告人が証人審問権の行使を妨
+げられた証跡はないから、前提を欠き、その余は、単なる法令違反、事実誤認の主
+張であつて、すべて適法な上告理由にあたらない。
+　弁護人真室光春の上告趣意は、単なる法令違反、量刑不当の主張であつて、適法
+な上告理由にあたらない。
+　よつて、刑訴法四一四条、三八六条一項三号、一八一条一項但書により、裁判官
+全員一致の意見で、主文のとおり決定する。
+　　昭和五五年三月一四日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　伊　　　藤　　　正　　　己
+　　　　　　　　　　　　裁判官　　　　環　　　　　　　昌　　　一
+　　　　　　　　　　　　裁判官　　　　横　　　井　　　大　　　三
+- 1 -
+
+                    
