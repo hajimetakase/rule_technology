@@ -1,0 +1,40 @@
+
+date: 19730320
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和41(あ)1697
+incident_name: 暴力行為等処罰に関する法律違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第186号329頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19660519
+agenda_description:  原審の判断を全面的に是認するのでないことを示すため「なお所論にかんがみ職権で調査するも、いまだ刑訴法四一一条を適用すべきものとは認められない」との判示を付加された第一小法廷の事例
+law_area: 
+law_description:  刑訴法411条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58985
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　検察官の上告趣意第一点は、判例違反をいうが、引用の判例は事案を異にし、本
+件に適切でなく、同第二点は、単なる法令違反の主張であつて、いずれも刑訴法四
+〇五条の上告理由にあたらない。なお、所論にかんがみ職権で調査するも、いまだ
+同法四一一条を適用すべきものとは認められない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和四八年三月二〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+- 1 -
+
+                    
