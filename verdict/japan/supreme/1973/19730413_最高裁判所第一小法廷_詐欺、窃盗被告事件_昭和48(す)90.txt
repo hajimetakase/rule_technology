@@ -1,0 +1,33 @@
+
+date: 19730413
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和48(す)90
+incident_name: 詐欺、窃盗被告事件の上告棄却の決定に対する異議申立
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第187号267頁
+previous_court_name: 最高裁判所
+previous_incident_id: 昭和47(あ)2299
+previous_judeged_at:19730308
+agenda_description:  上告棄却決定に対する異議申立が、裁判の内容に誤りのあることを理由とするものでなく（住居表示の訂正を求めるもの）、かつ期間後の申立であつて不適法とされた事例
+law_area: 
+law_description:  刑訴法415条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59970
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件申立を棄却する。
+　　昭和四八年四月一三日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+- 1 -
+
+                    
