@@ -1,0 +1,47 @@
+
+date: 19850215
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和59(あ)1239
+incident_name: 覚せい剤取締法違反、旅券法違反
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第239号37頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19840823
+agenda_description:  氏名、年齢、国籍不詳、住居不定の被告人を写真で特定した事例
+law_area: 
+law_description:  刑訴規則56条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58352
+
+verdict:
+
+- 1 -
+	 
+ E	˝ :kb{
+p 	øtSZ °>fly Ô
+:⁄ Ô t Öb{
+g 
+ 
+
+ w	˝ 	 x z˜ î¡ Ýw 	` pK z +¢ 
+œ  )àw 	˝	
+H °x zos O '§ Sw z H¸ xz  ˘p wz H ~x z˜ î¡Ý w⁄	`
+pK mozM c 
+ÌO 	Úw	˝ gt Khs M{
+m oz O ° 	Úz ~@ Æ	Ú °ò ~ł z° @° 	Ú° ò‘ 	{z O¸ °	Út
+z KQí
+¶ »°w _pz	 wqS > b{
+	⁄ŁÆ å¸D° Ô
+7 ôKQ	t H~	O
+
+K QÕKQí æ  – q ˇ
+KQí  { 
+Y ~
+KQí  , ] 
+KQí Õ a °
+
+                    
