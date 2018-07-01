@@ -1,0 +1,27 @@
+
+date: 19760218
+result: 
+verdict_type:labour
+incident_id: 昭和51(ヨ)79
+incident_name: 明治屋組合事務所使用妨害
+court_name: 仙台地方裁判所
+process_type:
+book: 
+previous_court_name:
+previous_incident_id:
+previous_judeged_at:
+agenda_description: 
+law_area:  労働
+law_description: 
+summary_description: 
+result: 
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail6?id=19720
+
+verdict:
+
+　　　　　　　主　　　文
+　債務者は、別紙物件目録記載の組合事務所につき、債権者及びその構成員、訪問
+者らが正当な組合活動に必要な限度でなす占有使用を妨げてはならない。
+（別紙物件目録省略）
+
+                    
