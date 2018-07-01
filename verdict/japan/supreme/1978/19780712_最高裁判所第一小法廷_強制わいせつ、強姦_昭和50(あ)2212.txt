@@ -1,0 +1,43 @@
+
+date: 19780712
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和50(あ)2212
+incident_name: 強制わいせつ、強姦致傷
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第211号647頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19751013
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58071
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人新関勝芳、同池田浩三、同西川茂の上告趣意のうち、憲法三一条違反をい
+う点は、実質は単なる法令違反の主張であり、その余は、単なる法令違反、事実誤
+認、量刑不当の主張であり、弁護人川添清吉の上告趣意は、単なる法令違反、事実
+誤認、量刑不当の主張であり、被告人本人の上告趣意は、事実誤認、単なる法令違
+反の主張であつて、すべて刑訴法四〇五条の上告理由にあたらない。
+　なお、所論にかんがみ、職権で記録を精査しても、同法四一一条を適用すべきも
+のとは認められない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五三年七月一二日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+　　　　　　　　　　　　裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　本　　　山　　　　　　　亨
+- 1 -
+
+                    
