@@ -1,0 +1,40 @@
+
+date: 19830224
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和57(あ)1721
+incident_name: 銃砲刀剣類所持等取締法違反、火薬類取締法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第230号199頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19821029
+agenda_description:  被告人が暴力団構成員であることをもつて直ちに量刑上不利益な差別的処遇をしたものとは認められないとして、憲法一四条違反の主張が欠前提とした事例
+law_area: 
+law_description:  憲法14条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58245
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人土居利忠の上告趣意は、憲法一四条違反をいうが、原判決は、被告人が暴
+力団の構成員であることをもつて、直ちに被告人に対し量刑に関し不利益な差別的
+処遇をしたものとは認められないから、所論は前提を欠き、刑訴法四〇五条の上告
+理由にあたらない
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五八年二月二四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　谷　　　口　　　正　　　孝
+　　　　　　　　　　　　裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　中　　　村　　　治　　　朗
+　　　　　　　　　　　　裁判官　　　　和　　　田　　　誠　　　一
+- 1 -
+
+                    
