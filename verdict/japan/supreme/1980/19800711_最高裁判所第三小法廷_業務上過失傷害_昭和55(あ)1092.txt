@@ -1,0 +1,39 @@
+
+date: 19800711
+result:  その他
+verdict_type:supreme
+incident_id: 昭和55(あ)1092
+incident_name: 業務上過失傷害
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第218号231頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19800530
+agenda_description:  当審係属中被告人死亡のため公訴を棄却した事例
+law_area: 
+law_description:  刑訴法339条1項4号
+summary_description:  
+result:  その他
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60389
+
+verdict:
+
+　右の者に対する業務上過失傷害被告事件について、昭和五五年五月三〇日大阪高
+等裁判所が言い渡した判決に対し、被告人から上告の申立があり、同事件は当裁判
+所に係属中のところ、被告人が昭和五五年六月九日死亡したことは、同人に関する
+京都府亀岡市長谷口義久認証の同年六月一二日付戸籍謄本の記載によつて明らかで
+ある。
+　よつて、当裁判所は、刑訴法四一四条、四〇四条、三三九条一項四号により、裁
+判官全員一致の意見で、次のとおり決定する。
+　　　　　　　　　主　　　　文
+　　　　　本件公訴を棄却する。
+　　昭和五五年七月一一日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　寺　　　田　　　治　　　郎
+　　　　　　　　　　　　裁判官　　　　環　　　　　　　昌　　　一
+　　　　　　　　　　　　裁判官　　　　横　　　井　　　大　　　三
+　　　　　　　　　　　　裁判官　　　　伊　　　藤　　　正　　　己
+- 1 -
+
+                    
