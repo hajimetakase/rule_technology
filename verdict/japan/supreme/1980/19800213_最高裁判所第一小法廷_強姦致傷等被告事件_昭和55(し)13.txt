@@ -1,0 +1,39 @@
+
+date: 19800213
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和55(し)13
+incident_name: 強姦致傷等被告事件についてした国選弁護士を解任しない旨の措置等に対する特別抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第217号91頁
+previous_court_name: 宇都宮地方裁判所 　栃木支部
+previous_incident_id: 
+previous_judeged_at:19800116
+agenda_description:  裁判所が国選弁護人の解任届に関してとつた措置が刑訴法四三三条一項にいう決定にあたらないとされた事例
+law_area: 
+law_description:  刑訴法433条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60404
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件において裁判所が申立人の提出した国選弁護人の解任届に関してとつた措置
+等は刑訴法四三三条一項にいう「この法律により不服を申し立てることができない
+決定」にあたらないから、本件抗告の申立は不適法である。
+　よつて、同法四三四条、四二六条一項により、裁判官全員一致の意見で、主文の
+とおり決定する。
+　　昭和五五年二月一三日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　戸　　　田　　　　　　　弘
+　　　　　　　　　　　　裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　本　　　山　　　　　　　亨
+　　　　　　　　　　　　裁判官　　　　中　　　村　　　治　　　朗
+- 1 -
+
+                    
