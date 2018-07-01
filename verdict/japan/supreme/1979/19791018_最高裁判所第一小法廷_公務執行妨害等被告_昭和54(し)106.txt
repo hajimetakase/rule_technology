@@ -1,0 +1,40 @@
+
+date: 19791018
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和54(し)106
+incident_name: 公務執行妨害等被告事件についてした裁判長の処分に対する異議申立棄却決定に対する特別抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第216号141頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19790918
+agenda_description:  裁判長が看守の着席位置に関してとつた措置に対する異議申立棄却決定が、刑訴法四三三条一項にいう決定にあたらないとされた事例
+law_area: 
+law_description:  刑訴法433条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60376
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件抗告申立の適否について判断するに、裁判長が勾留中の被告人の戒護にあた
+る拘置所職員の着席位置に関してとつた本件措置に対する異議申立棄却決定のよう
+に訴訟手続に関し判決前にした決定は、刑訴法四三三条一項にいう「この法律によ
+り不服を申し立てることができない決定」にあたらないから、本件抗告の申立は不
+適法である。
+　よつて、同法四三四条、四二六条一項により、裁判官全員一致の意見で、主文の
+とおり決定する。
+　　昭和五四年一〇月一八日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　本　　　山　　　　　　　亨
+　　　　　　　　　　　　裁判官　　　　中　　　村　　　治　　　朗
+- 1 -
+
+                    
