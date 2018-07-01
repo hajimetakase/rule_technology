@@ -1,0 +1,39 @@
+
+date: 19750704
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和50(あ)915
+incident_name: 道路交通法違反
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第197号19頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19750306
+agenda_description:  刑法二五条一項一、二号があるために執行猶予を受け得なかつたとして右条号の違憲（一四条）をいう主張が欠前提とされた事例
+law_area: 
+law_description:  刑法25条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60144
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人田子璋の上告趣意は、憲法一四条違反をいうが、原判決によれば、被告人
+が刑法二五条一項一、二号に定める要件を欠くとの理由によつて刑の執行猶予の言
+渡を受けられなかつたものであるとはとうてい認められないから、その前提を欠き、
+刑訴法四〇五条の上告理由にあたらない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五〇年七月四日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　吉　　　田　　　　　　　豊
+　　　　　　　　　　　　裁判官　　　　岡　　　原　　　昌　　　男
+　　　　　　　　　　　　裁判官　　　　小　　　川　　　信　　　雄
+　　　　　　　　　　　　裁判官　　　　大　　　塚　　　喜　一　郎
+- 1 -
+
+                    
