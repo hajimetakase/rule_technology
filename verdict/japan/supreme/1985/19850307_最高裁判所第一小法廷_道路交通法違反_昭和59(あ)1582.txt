@@ -1,0 +1,42 @@
+
+date: 19850307
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和59(あ)1582
+incident_name: 道路交通法違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第239号123頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19841113
+agenda_description:  道路交通法一一八条一項一号と憲法三六条
+law_area: 
+law_description:  道路交通法118条1項1号，憲法36条
+summary_description:  道路交通法一一八条一項一号は憲法三六条に違反しない。
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58363
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人三宅信幸の上告趣意のうち、憲法三六条違反をいう点は、道路交通法一一
+八条一項一号の規定をもつて、憲法三六条にいわゆる残虐な刑罰を定めたものとい
+えないことは、当裁判所の判例（昭和二二年（れ）第三二三号同二三年六月二三日
+大法廷判決・刑集二巻七号七七七頁）の趣旨に徴し、明らかであるから、所論は理
+由がなく、その余は、量刑不当の主張であつて、刑訴法四〇五条の上告理由にあた
+らない。
+　よつて、刑訴法四〇八条により、裁判官全員一致の意見で、主文のとおり判決す
+る。
+　　昭和六〇年三月七日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　角　　　田　　　禮　次　郎
+　　　　　　　　　　　　裁判官　　　　谷　　　口　　　正　　　孝
+　　　　　　　　　　　　裁判官　　　　和　　　田　　　誠　　　一
+　　　　　　　　　　　　裁判官　　　　矢　　　口　　　洪　　　一
+　　　　　　　　　　　　裁判官　　　　高　　　島　　　益　　　郎
+- 1 -
+
+                    
