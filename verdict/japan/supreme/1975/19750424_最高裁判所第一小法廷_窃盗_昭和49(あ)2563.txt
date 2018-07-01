@@ -1,0 +1,40 @@
+
+date: 19750424
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和49(あ)2563
+incident_name: 窃盗
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第196号197頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19741014
+agenda_description:  被害金額の誤認（三〇〇万余円を四七〇万余円と誤認）と刑訴法四一一条
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60029
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人蓮貞吉の上告趣意は、事実誤認、単なる法令違反、量刑不当の主張であつ
+て、いずれも刑訴法四〇五条の上告理由にあたらない（なお、原判決は、その引用
+する第一審判決判示第二事実について、所論の指摘するとおり、その被害金額を誤
+認した疑いがあるが、いまだ同法四一一条を適用すべきものとは認められない。）。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五〇年四月二四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+　　　　　　　　　　　　裁判官　　　　団　　　藤　　　重　　　光
+- 1 -
+
+                    
