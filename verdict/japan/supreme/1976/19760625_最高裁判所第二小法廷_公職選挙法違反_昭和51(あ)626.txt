@@ -1,0 +1,40 @@
+
+date: 19760625
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和51(あ)626
+incident_name: 公職選挙法違反
+court_name: 最高裁判所第二小法廷
+process_type: 判決
+book:  集刑　第201号85頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19760127
+agenda_description:  公民権停止と憲法一四条
+law_area: 
+law_description:  憲法14条，公選法252条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60206
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件各上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人熊川次男、同戸所仁治連名の上告趣意のうち、公職選挙法二五二条の規定
+が憲法一四条に違反する旨主張する点は、当裁判所の判例（昭和二九年（あ）第四
+三九号同三〇年二月九日大法廷判決・刑集九巻二号二一七頁）の趣旨に徴し理由の
+ないことが明らかであり、その余は、違憲をいう点をも含め、実質は、すべて、事
+実誤認、単なる法令違反、量刑不当の主張であつて、刑訴法四〇五条の上告理由に
+あたらない。
+　よつて、同法四〇八条により、裁判官全員一致の意見で、主文のとおり判決する。
+　　昭和五一年六月二五日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　岡　　　原　　　昌　　　男
+　　　　　　　　　　　　裁判官　　　　大　　　塚　　　喜　一　郎
+　　　　　　　　　　　　裁判官　　　　吉　　　田　　　　　　　豊
+　　　　　　　　　　　　裁判官　　　　本　　　林　　　　　　　譲
+- 1 -
+
+                    
