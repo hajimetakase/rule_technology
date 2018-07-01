@@ -1,0 +1,41 @@
+
+date: 19870121
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和61(し)110
+incident_name: 裁判の解釈を求める申立事件についてした裁判官忌避申立却下決定に対する異議申立棄却決定に対する特別抗告
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第245号487頁
+previous_court_name: 高松高等裁判所
+previous_incident_id: 
+previous_judeged_at:19870626
+agenda_description:  裁判官忌避申立却下の裁判と不服申立の利益
+law_area: 
+law_description:  刑訴法21条，刑訴法24条，刑訴法25条，刑訴法428条2項，刑訴法433条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58440
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件抗告申立の適否について判断するに、裁判官忌避申立却下の裁判は、当該裁
+判官が審理を継続している限りにおいてこれを取り消す実益があり、本件ではこれ
+が失われている旨の原判断は相当である（最高裁昭和五九年（し）第二九号同年三
+月二九日第一小法廷決定・刑集三八巻五号二〇九五頁参照）から、本件抗告の申立
+もまた法律上の利益を欠き不適法である。
+　よつて、刑訴法四三四条、四二六条一項により、裁判官全員一致の意見で、主文
+のとおり決定する。
+　　昭和六二年一月二一日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　牧　　　　　　　圭　　　次
+　　　　　　　　　　　　裁判官　　　　島　　　谷　　　六　　　郎
+　　　　　　　　　　　　裁判官　　　　藤　　　島　　　　　　　昭
+　　　　　　　　　　　　裁判官　　　　香　　　川　　　保　　　一
+　　　　　　　　　　　　裁判官　　　　林　　　　　　　藤　之　輔
+- 1 -
+
+                    
