@@ -1,0 +1,40 @@
+
+date: 19800513
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和55(し)40
+incident_name: 費用補償決定に対する即時抗告事件についてした即時抗告棄却決定に対する特別抗告
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第217号711頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 
+previous_judeged_at:19800324
+agenda_description:  再審請求手続において要した費用と刑訴法一八八条の二による補償の範囲
+law_area: 
+law_description:  刑訴法188条の2，刑訴法188条の6
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60408
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件抗告の趣意のうち、憲法四〇条違反をいう点は、無罪の判決が確定した者に
+対しどの範囲の費用を補償するかは立法政策の問題であつて、憲法適否の問題では
+ないから、前提を欠き、その余は単なる法令違反の主張であつて、刑訴法四三三条
+の抗告理由にあたらない。
+　よつて、同法四三四条、四二六条一項により、裁判官全員一致の意見で、主文の
+とおり決定する。
+　　昭和五五年五月一三日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　木　　　下　　　忠　　　良
+　　　　　　　　　　　　裁判官　　　　栗　　　本　　　一　　　夫
+　　　　　　　　　　　　裁判官　　　　塚　　　本　　　重　　　頼
+　　　　　　　　　　　　裁判官　　　　監　　　野　　　宜　　　慶
+　　　　　　　　　　　　裁判官　　　　宮　　　崎　　　梧　　　一
+- 1 -
+
+                    
