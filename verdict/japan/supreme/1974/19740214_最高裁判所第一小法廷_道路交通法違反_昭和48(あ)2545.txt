@@ -1,0 +1,39 @@
+
+date: 19740214
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和48(あ)2545
+incident_name: 道路交通法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第191号117頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19731025
+agenda_description:  判例の具体的指摘を欠くとされた事例
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59901
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人春田昭の上告趣意第一は、判例違反をいうが、判例を具体的に指摘してお
+らず、同第二は、量刑不当の主張であつて、すべて刑訴法四〇五条の上告理由にあ
+たらない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和四九年二月一四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+- 1 -
+
+                    
