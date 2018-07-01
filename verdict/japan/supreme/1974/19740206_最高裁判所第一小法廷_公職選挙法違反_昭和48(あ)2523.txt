@@ -1,0 +1,37 @@
+
+date: 19740206
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和48(あ)2523
+incident_name: 公職選挙法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第191号81頁
+previous_court_name: 高松高等裁判所
+previous_incident_id: 
+previous_judeged_at:19730928
+agenda_description:  不適法な上告趣意の事例−原判決に対する不服の理由を具体的に示していないもの
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59899
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　被告人の上告趣意は、原判決に対する不服の理由を具体的に示しておらず、適法
+な上告理由とならない。よつて、刑訴法四一四条、三八六条一項三号により、裁判
+官全員一致の意見で、主文のとおり決定する。
+　　昭和四九年二月七日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岸　　　上　　　康　　　夫
+　　　　　　　　　　　　裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　　　　　盛　　　一
+- 1 -
+
+                    
