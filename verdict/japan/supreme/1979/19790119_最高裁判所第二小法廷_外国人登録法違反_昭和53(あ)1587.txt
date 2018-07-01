@@ -1,0 +1,40 @@
+
+date: 19790119
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和53(あ)1587
+incident_name: 外国人登録法違反
+court_name: 最高裁判所第二小法廷
+process_type: 判決
+book:  集刑　第214号35頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19780727
+agenda_description:  外国人登録法三条一項と憲法三八条一項
+law_area: 
+law_description:  外国人登録法3条1項，憲法38条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58089
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人松井清志の上告趣意は、憲法三八条一項違反をいうが、外国人登録法三条
+一項の規定は不法に本邦に入つた外国人にも適用されるものと解すべきであり、こ
+のように解しても憲法三八条一項に違反するものでないことは、当裁判所の判例（
+昭和二九年（あ）第二七七七号同三一年一二月二六日大法廷判決・刑集一〇巻一二
+号一七六九頁）の趣旨に徴し明らかであるから、所論は理由がない。
+　よつて、刑訴法四〇八条により、裁判官全員一致の意見で、主文のとおり判決す
+る。
+　　昭和五四年一月一九日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　栗　　　本　　　一　　　夫
+　　　　　　　　　　　　裁判官　　　　大　　　塚　　　喜　一　郎
+　　　　　　　　　　　　裁判官　　　　吉　　　田　　　　　　　豊
+　　　　　　　　　　　　裁判官　　　　本　　　林　　　　　　　讓
+- 1 -
+
+                    
