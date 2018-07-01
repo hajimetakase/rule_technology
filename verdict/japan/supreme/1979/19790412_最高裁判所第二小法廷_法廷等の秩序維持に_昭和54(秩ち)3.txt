@@ -1,0 +1,36 @@
+
+date: 19790412
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和54(秩ち)3
+incident_name: 法廷等の秩序維持に関する法律による制裁事件についてした抗告棄却決定に対する特別抗告
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第214号305頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19790320
+agenda_description:  違憲の主張は含むがその余の主張が趣旨不明の抗告趣意につき、法秩法六条一項の抗告理由にあたらないとして処理した事例
+law_area: 
+law_description:  法秩法6条1項
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58142
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　本件抗告の趣意は、実質は単なる法令違反の主張にすぎない違憲の主張を含めて、
+すべて法廷等の秩序維持に関する法律六条一項の抗告理由にあたらない。
+　よつて、同法九条、法廷等の秩序維持に関する規則一九条、一八条一項により、
+裁判官全員一致の意見で、主文のとおり決定する。
+　　昭和五四年四月一二日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　塚　　　喜　一　郎
+　　　　　　　　　　　　裁判官　　　　栗　　　本　　　一　　　夫
+　　　　　　　　　　　　裁判官　　　　木　　　下　　　忠　　　良
+- 1 -
+
+                    
