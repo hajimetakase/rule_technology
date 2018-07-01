@@ -1,0 +1,41 @@
+
+date: 19750430
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和49(あ)2853
+incident_name: 道路交通法違反、同幇助、業務上過失傷害
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第196号317頁
+previous_court_name: 仙台高等裁判所 　秋田支部
+previous_incident_id: 
+previous_judeged_at:19741203
+agenda_description:  累犯に該当しない前科を量刑上考慮することは憲法三一条、三九条に違反する旨の主張が欠前提とされた事例
+law_area: 
+law_description:  憲法39条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60038
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人八木新治の上告趣意は、憲法三一条、三九条違反をいうが、原判決ほ所論
+前科をもつて被告人の規範意識の欠如が著しいことの認定資料としたにすぎないも
+のであることが判文上明白であるから、所論はすべて前提を欠き、刑訴法四〇五条
+の上告理由にあたらない。
+　よつて、同法四一四条、三八六条一項三号、一八一条一項本文により、裁判官全
+員一致の意見で、主文のとおり決定する。
+　　昭和五〇年四月三〇日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　関　　　根　　　小　　　郷
+　　　　　　　　　　　　裁判官　　　　天　　　野　　　武　　　一
+　　　　　　　　　　　　裁判官　　　　坂　　　本　　　吉　　　勝
+　　　　　　　　　　　　裁判官　　　　江　里　口　　　清　　　雄
+　　　　　　　　　　　　裁判官　　　　高　　　辻　　　正　　　己
+- 1 -
+
+                    
