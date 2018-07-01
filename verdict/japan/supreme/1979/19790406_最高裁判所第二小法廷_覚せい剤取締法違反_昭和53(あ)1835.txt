@@ -1,0 +1,39 @@
+
+date: 19790406
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和53(あ)1835
+incident_name: 覚せい剤取締法違反、暴行
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第214号301頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19780913
+agenda_description:  覚せい剤事犯における採尿の違憲主張が欠前提とされた事例
+law_area: 
+law_description:  憲法31条，憲法35条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58092
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人徳永正次の上告趣意のうち、違憲をいう点は、記録によれば、本件尿の採
+取、提出、領置は任意捜査の範囲内のものと認められ、令状なくしてなされた本件
+尿の押収、領置は何ら違法のものということはできないとした原判決の認定判断は
+相当であるから、所論は前提を欠き、その余は、単なる法令違反の主張であつて、
+刑訴法四〇五条の上告理由にあたらない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五四年四月六日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　塚　　　喜　一　郎
+　　　　　　　　　　　　裁判官　　　　栗　　　本　　　一　　　夫
+　　　　　　　　　　　　裁判官　　　　木　　　下　　　忠　　　良
+- 1 -
+
+                    
