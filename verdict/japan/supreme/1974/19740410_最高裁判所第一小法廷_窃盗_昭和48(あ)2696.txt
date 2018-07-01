@@ -1,0 +1,39 @@
+
+date: 19740410
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和48(あ)2696
+incident_name: 窃盗
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第192号255頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19731029
+agenda_description:  判例違反の主張が、原判決に判断の示されていない事項に関するものであるとされた事例
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59909
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人麦田浩一郎の上告趣意は、原判決においてなんら判断の示されていない事
+項に関する判例違反の主張、判決に影響を及ぼさない単なる法令違反の主張および
+量刑不当の主張であつて、すべて適法な上告理由にあたらない。
+　よつて、刑訴法四一四条、三八六条一項三号、一八一条一項但書により、裁判官
+全員一致の意見で、主文のとおり決定する。
+　　昭和四九年四月一〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岸　　　　　　　盛　　　一
+　　　　　　　　　　　　裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　藤　　　林　　　益　　　三
+　　　　　　　　　　　　裁判官　　　　下　　　田　　　武　　　三
+　　　　　　　　　　　　裁判官　　　　岸　　　上　　　康　　　夫
+- 1 -
+
+                    
