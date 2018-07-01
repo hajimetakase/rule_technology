@@ -1,0 +1,41 @@
+
+date: 19801210
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和55(あ)862
+incident_name: 風俗営業等取締法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第220号485頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19800416
+agenda_description:  昭和三九年長崎県条例第六一号風俗営業等取締法施行条例二四条四号と憲法三一条
+law_area: 
+law_description:  憲法31条，風俗法3条，風俗法施行条例（昭39長崎県条例61）24条4号
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58174
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件各上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人松尾千秋の上告趣意は、憲法三一条違反をいうが、本件各行為が昭和三九
+年長崎県条例第六一号風俗営業等取締法施行条例二四条にいう「卑わいな行為」に
+あたることは明らかであり、右規定は本件に適用される限りにおいては所論のよう
+に不明確であるとはいえないから、所論は前提を欠き、刑訴法四〇五条の上告理由
+にあたらない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和五五年一二月一〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　本　　　山　　　　　　　亨
+　　　　　　　　　　　　裁判官　　　　中　　　村　　　治　　　朗
+　　　　　　　　　　　　裁判官　　　　谷　　　口　　　正　　　孝
+- 1 -
+
+                    
