@@ -1,0 +1,40 @@
+
+date: 19820205
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和56(あ)1547
+incident_name: 業務上過失傷害
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第225号651頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19810914
+agenda_description:  刑訴法四〇五条は憲法八一条に違反する旨の主張が「欠前提」とされた事例
+law_area: 
+law_description:  憲法81条，刑訴法405条
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=76074
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人上野伊知郎の上告趣意のうち、憲法八一条違反をいう点は、刑訴法四〇五
+条は原判決に憲法違反があることを上告理由としていることが明らかであるから、
+所論は前提を欠き、その余は、事実誤認、単なる法令違反の主張であつて、適法な
+上告理由にあたらない。
+　よつて、刑訴法四一四条、三八六条一項三号、一八一条一項本文により、裁判官
+全員一致の意見で、主文のとおり決定する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　団　　　藤　　　重　　　光
+　　　　　　　　　　　　裁判官　　　　藤　　　崎　　　萬　　　里
+　　　　　　　　　　　　裁判官　　　　本　　　山　　　　　　　亨
+　　　　　　　　　　　　裁判官　　　　中　　　村　　　治　　　朗
+　　　　　　　　　　　　裁判官　　　　谷　　　口　　　正　　　孝
+- 1 -
+
+                    
