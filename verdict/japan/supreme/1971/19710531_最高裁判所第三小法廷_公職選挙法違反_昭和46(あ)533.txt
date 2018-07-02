@@ -1,0 +1,40 @@
+
+date: 19710531
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和46(あ)533
+incident_name: 公職選挙法違反
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第180号543頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 
+previous_judeged_at:19710215
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59682
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人設楽作己の上告趣意一は、憲法三八条三項違反をいうが、所論Ａの供述調
+書謄本の記載は、所論被告人の自白の補強証拠として十分なものと認められるから、
+所論は前提を欠き、同上告趣意二は、事実誤認の主張であつて、いずれも刑訴法四
+〇五条の上告理由にあたらない。また、記録を調べても、同法四一一条を適用すべ
+きものとは認められない。
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和四六年五月三一日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　下　　　村　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　田　　　中　　　二　　　郎
+　　　　　　　　　　　　裁判官　　　　松　　　本　　　正　　　雄
+　　　　　　　　　　　　裁判官　　　　関　　　根　　　小　　　郷
+- 1 -
+
+                    
