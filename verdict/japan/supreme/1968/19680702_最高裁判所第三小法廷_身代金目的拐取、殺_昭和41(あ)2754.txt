@@ -1,0 +1,42 @@
+
+date: 19680702
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和41(あ)2754
+incident_name: 身代金目的拐取、殺人、死体遺棄、拐取者身代金要求
+court_name: 最高裁判所第三小法廷
+process_type: 判決
+book:  集刑　第168号1頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 
+previous_judeged_at:19661018
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59032
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人鈴木多人の上告趣意（二通）のうち、判例違反を主張する点は、引用の判
+例は、本件と事案を異にして適切でないから、所論はその前提を欠き、その余の論
+旨は、憲法一一条違反を主張する点もあるが、実質は、すべて単なる法令違反、事
+実誤認、量刑不当の主張であつて、適法な上告理由にあたらない。また、記録を調
+べても、原判決が被告人に対し極刑を科したのはまことにやむを得ないものと認め
+られる。
+　よつて、刑訴法四一四条、三九六条、一八一条一項但書により、裁判官全員一致
+の意見で、主文のとおり判決する。
+　裁判官柏原語六は、退官のため評議に関与しない。
+　検察官　平出禾公判出席
+　　昭和四三年七月二日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　田　　　中　　　二　　　郎
+　　　　　　　　　　　　裁判官　　　　下　　　村　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　松　　　本　　　正　　　雄
+- 1 -
+
+                    
