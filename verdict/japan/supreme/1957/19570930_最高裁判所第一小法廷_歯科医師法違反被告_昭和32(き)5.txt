@@ -1,0 +1,36 @@
+
+date: 19570930
+result:  その他
+verdict_type:supreme
+incident_id: 昭和32(き)5
+incident_name: 歯科医師法違反被告事件につきなした大審院判決に対する再審請求
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第120号583頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19391107
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  その他
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=61097
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件を東京高等裁判所に移送する。
+　　　　　　　　　理　　　　由
+　大審院のした判決に対する再審の請求は東京高等裁判所が管轄すべきものである
+こと、当裁判所大法廷判例の趣旨とするところである（昭和二四年二月二五日判決
+刑集三巻二号二四六頁）。よつて裁判官全員一致の意見で主文のとおり決定する。
+　　昭和三二年九月三〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
