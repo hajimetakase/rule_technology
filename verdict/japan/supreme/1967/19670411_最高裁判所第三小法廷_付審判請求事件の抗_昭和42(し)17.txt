@@ -1,0 +1,40 @@
+
+date: 19670411
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和42(し)17
+incident_name: 付審判請求事件の抗告棄却決定に対する特別抗告
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第163号59頁
+previous_court_name: 福岡高等裁判所 　宮崎支部
+previous_incident_id: 
+previous_judeged_at:19670225
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59193
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　記録によると、抗告人の提出した本件付審判請求書には、被疑者および犯罪事実
+の特定がなく、適式な証拠の記載もないから、本件請求は、刑訴法二六二条二項、
+刑訴規則一六九条所定の方式に違反し、不適法であるとして、これを排斥した鹿児
+島地方裁判所の決定の維持した原決定は相当である。
+　よつて、本件抗告は、その前提において理由がなく、これを棄却すべきものであ
+るから、刑訴法四三四条、四二六条一項に従い、裁判官全員一致の意見で、主文の
+とおり決定する。
+　　昭和四二年四月一一日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　松　　　本　　　正　　　雄
+　　　　　　　　　　　　裁判官　　　　柏　　　原　　　語　　　六
+　　　　　　　　　　　　裁判官　　　　田　　　中　　　二　　　郎
+　　　　　　　　　　　　裁判官　　　　下　　　村　　　三　　　郎
+- 1 -
+
+                    
