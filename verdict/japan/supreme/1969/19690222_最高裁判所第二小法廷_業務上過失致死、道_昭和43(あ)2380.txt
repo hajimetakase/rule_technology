@@ -1,0 +1,40 @@
+
+date: 19690222
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和43(あ)2380
+incident_name: 業務上過失致死、道路交通法違反
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第170号337頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19681029
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59276
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人荒木宏の上告趣意は、事実誤認、単なる法令違反の主張であつて、刑訴法
+四〇五条の上告理由にあたらない。（なお、本件上告趣意書は、弁護士酉井善一も
+連名で記載されているが、同人は当審の弁護人として選任されておらず、また原審
+弁護人の資格でみずから上告申立をした者でもないから、弁護人荒木宏の上告趣意
+として取り扱う。）
+　よつて、同法四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和四四年二月二二日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　草　　　鹿　　　浅　之　介
+　　　　　　　　　　　　裁判官　　　　城　　　戸　　　芳　　　彦
+　　　　　　　　　　　　裁判官　　　　色　　　川　　　幸　太　郎
+　　　　　　　　　　　　裁判官　　　　村　　　上　　　朝　　　一
+- 1 -
+
+                    
