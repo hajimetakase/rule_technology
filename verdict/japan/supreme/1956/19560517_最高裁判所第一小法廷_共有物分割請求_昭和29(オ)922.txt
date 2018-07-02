@@ -1,0 +1,38 @@
+
+date: 19560517
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和29(オ)922
+incident_name: 共有物分割請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第22号109頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19540929
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=76995
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　事実審は適法に上告人（被告）と被上告人（原告）との間に本件不動産の分割に
+協議の調わない事実を認定し、民法二五八条により、本件不動産を競売に付しその
+売得金を分配する旨の被上告人（原告）の請求を正当と認めたのであつて、原判決
+には所論の違法はない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+- 1 -
+
+                    
