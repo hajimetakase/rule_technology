@@ -1,0 +1,38 @@
+
+date: 19580516
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和31(オ)742
+incident_name: 貸金請求
+court_name: 最高裁判所第二小法廷
+process_type: 判決
+book:  集民　第31号617頁
+previous_court_name: 福岡高等裁判所 　宮崎支部
+previous_incident_id: 
+previous_judeged_at:19560625
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=69704
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　論旨第一点は原審が適法にした事実の認定を非難するに帰着し、論旨第二点は原
+判示事実に副わない事実に立脚して原判決を論難するにすぎない（引用の大審院判
+例の事案もまた本件に適切ではない）から、いずれもとり得ない。論旨第三点は独
+自の見解を主張して原審の正当の判断を攻撃するもので、これまたとり難い。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　藤　　　田　　　八　　　郎
+　　　　　　　　　　　　裁判官　　　　河　　　村　　　大　　　助
+　　　　　　　　　　　　裁判官　　　　奥　　　野　　　健　　　一
+- 1 -
+
+                    
