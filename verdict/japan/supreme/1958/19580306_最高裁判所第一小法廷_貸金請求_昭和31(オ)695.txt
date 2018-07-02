@@ -1,0 +1,41 @@
+
+date: 19580306
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和31(オ)695
+incident_name: 貸金請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第30号717頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19560508
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=65396
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　原判決はその判文によつても明かなように、所論更改契約のあつたことを認定し
+た上で上告人に判示責任があると判定しているのではなく、上告人は判示手形上の
+責任を免れないが故に所論四〇万円の貸金についてもその責ありというのであり、
+且つ右手形の振出は、行為の外形を客観的にみて所論会社の業務を遂行するに必要
+な行為と認められないことはないとの趣旨並に被上告人に所論過失のないことを判
+示しているのであるから、原判決には所論の違法は認められない。所論は独自の観
+察に基いて原判決を非難するもので採るを得ない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
