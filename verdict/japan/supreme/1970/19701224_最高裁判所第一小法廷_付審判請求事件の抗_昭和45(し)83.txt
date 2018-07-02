@@ -1,0 +1,40 @@
+
+date: 19701224
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和45(し)83
+incident_name: 付審判請求事件の抗告棄却決定に対する特別抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第178号1161頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19700918
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59613
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　論旨は、憲法三二条、九九条違反をいうが、本件は付審判請求事件であり、第一
+審の決定の確定した事実関係の下においては、被請求人らに公務員職権濫用罪は成
+立しないとした原判示は正当であるから、右の論旨は、本件付審判請求棄却決定に
+対する抗告棄却決定の当否の判断に何ら影響を及ぼすものではない。従つて、所論
+違憲の主張は、特別抗告適法の理由にあたらない。
+　よつて、刑訴法四三四条、四二六条一項により、裁判官全員一致の意見で、主文
+のとおり決定する。
+　　昭和四五年一二月二四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　大　　　隅　　　健　一　郎
+　　　　　　　　　　　　裁判官　　　　長　　　部　　　謹　　　吾
+　　　　　　　　　　　　裁判官　　　　岩　　　田　　　　　　　誠
+　　　　　　　　　　　　裁判官　　　　藤　　　林　　　益　　　三
+- 1 -
+
+                    
