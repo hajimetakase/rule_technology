@@ -1,0 +1,40 @@
+
+date: 19560719
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和30(オ)608
+incident_name: 特許出願拒絶査定審決取消請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第22号853頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19550412
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=77206
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　上告理由は多くの言葉を費やしているが、その大部分は原判決の違法に直接関係
+のない事柄を詳細に亘り述べているに過ぎないものである。その余は原判決の認定
+に副わない事実を前提として原判決の違法を主張するに帰する。それ故、全論旨は、
+結局原判決に影響を及ぼすことの明らかな法令の違背を主張するものと認められな
+い。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+- 1 -
+
+                    
