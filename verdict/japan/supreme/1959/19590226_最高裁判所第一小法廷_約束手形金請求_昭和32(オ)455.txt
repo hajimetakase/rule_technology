@@ -1,0 +1,42 @@
+
+date: 19590226
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和32(オ)455
+incident_name: 約束手形金請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第35号533頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19570114
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=69805
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　上告代理人藤本梅一の上告理由第一点、第二点、第三点について。
+　しかし原判示を精読すれば、原判決は、本件手形振出人欄の各記名印および名下
+の印影がいずれも真正であることについて当事者に争のないことおよび挙示の各証
+拠を綜合して、本件手形は上告会社が真実に（すなわちその意思に基いて）振出交
+付されたいわゆる書替手形であると認定判示した趣旨であることは判文上自ら明か
+である。また、たとえ右記名押印が何時何人によつてなされたか明でなくても右の
+ような事実認定をするの妨げとなるものではない。論旨はひつきよう原審のした事
+実認定の非難に帰するから採用し得ない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　高　　　木　　　常　　　七
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
