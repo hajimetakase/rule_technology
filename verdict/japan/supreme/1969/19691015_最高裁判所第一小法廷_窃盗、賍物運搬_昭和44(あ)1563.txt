@@ -1,0 +1,38 @@
+
+date: 19691015
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和44(あ)1563
+incident_name: 窃盗、賍物運搬
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第173号439頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19690513
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=59408
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　原判決後被告人の妻によつて選任された弁護人は、被告人のため上訴の申立をす
+る権限がない（昭和四三年（あ）第二五三一号同四四年九月四日当小法廷決定参照。）。
+　よつて、刑訴法四一四条、三八五条一項により、裁判官全員一致の意見で、主文
+のとおり決定する。
+　　昭和四四年一〇月一五日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　長　　　部　　　謹　　　吾
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　松　　　田　　　二　　　郎
+　　　　　　　　　　　　裁判官　　　　岩　　　田　　　　　　　誠
+　　　　　　　　　　　　裁判官　　　　大　　　隅　　　健　一　郎
+- 1 -
+
+                    
