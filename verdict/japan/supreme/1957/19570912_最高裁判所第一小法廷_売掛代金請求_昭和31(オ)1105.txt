@@ -1,0 +1,39 @@
+
+date: 19570912
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和31(オ)1105
+incident_name: 売掛代金請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第27号743頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19561008
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=77339
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人らの負担とする。
+　　　　　　　　　理　　　　由
+　論旨は、訴訟法違反をいうが、仮に所論のような事情により、本件控訴状が控訴
+提起の法定期間経過後に原審裁判所に提出されたものであつたとしても、そのよう
+な事情をもつて、上告人らの責に帰すべからざる事由により不変期間を遵守するこ
+とができなかつた場合に当るものとは認められない。それ故所論は採るを得ない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
