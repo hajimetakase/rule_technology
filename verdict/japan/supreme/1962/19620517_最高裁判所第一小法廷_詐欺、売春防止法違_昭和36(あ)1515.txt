@@ -1,0 +1,39 @@
+
+date: 19620517
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和36(あ)1515
+incident_name: 詐欺、売春防止法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  刑集　第16巻5号520頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19610509
+agenda_description:  売春防止法第一一条第二項にいう「業とする」の法意
+law_area: 
+law_description:  売春防止法11条
+summary_description:  売春防止法第一一条第二項にいう「業とする」とは、反覆継続して行う意思のもとに同条項所定の行為をする場合を指称し、売春を行うための特別の設備を持ち、一個の業態として右行為をなすことを必要とするものではない。
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=56994
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人遠山丙市、同渡辺敏郎の上告趣意は、単なる法令違反、量刑不当、事実誤
+認の主張であつて、刑訴四〇五条の上告理由に当らない。（なお、売春防止法一一
+条二項の「業とする」の法意に関する原判示は正当であり、所論の法令違反は認め
+られない。）
+　よつて、刑訴四一四条、三八六条一項三号により、裁判官全員一致の意見で、主
+文のとおり決定する。
+　　昭和三七年五月一七日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+　　　　　　　　　　　　裁判官　　　　高　　　木　　　常　　　七
+- 1 -
+
+                    
