@@ -1,0 +1,39 @@
+
+date: 19560712
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和30(オ)378
+incident_name: 約束手形金請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第22号763頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19550207
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=77144
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　論旨は、いわゆる悪意の抗弁を主張する。しかし、原判決は、本件手形が上告人
+主張のような売買代金支払のため振出されたものであることを、被上告人が知つて
+いたことは認め得るが、右売買契約が適法に合意解除され且つ被上告人がこれを知
+つて手形を取得したことは肯認できないと説明している。それ故、原審が上告人主
+張の悪意の抗弁を採用しなかつたのは正当であつて所論の違法はない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+- 1 -
+
+                    
