@@ -1,0 +1,38 @@
+
+date: 19570328
+result:  却下
+verdict_type:supreme
+incident_id: 昭和32(秩ち)1
+incident_name: 法廷等の秩序維持に関する法律による制裁の決定に対する抗告につきなした抗告棄却決定に対する抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集民　第25号1085頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 昭和31(秩ほ)1
+previous_judeged_at:19570131
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  却下
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=77573
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を棄却する。
+　　　　　　　　　理　　　　由
+　法廷等の秩序維持に関する法律による制裁の裁判について最高裁判所に特に抗告
+をすることが許されるのは、同法六条所定の場合に限られる。然るに本件抗告理由
+は違憲の文字を使用するが、その実質は原判示事実を争うに帰著し、同条所定の場
+合に当らないから、法廷等の秩序維持に関する規則一九条、一八条により本件抗告
+を棄却すべきものとし、主文のとおり決定する。
+　　昭和三二年三月二八日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
