@@ -1,0 +1,43 @@
+
+date: 19590409
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和32(オ)753
+incident_name: 行政処分取消請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第36号25頁
+previous_court_name: 名古屋高等裁判所 　金沢支部
+previous_incident_id: 
+previous_judeged_at:19570520
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=69852
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　上告代理人塚本助次郎の上告理由第一、二点について。
+　しかし原判決挙示の証拠によれば、本件買収計画樹立の当時上告人が神戸市に住
+所を有していたこと、従つて本件農地は上告人がその住所のある市町村の区域外に
+おいて所有する小作地であるから買収処分の対象となし得るとした原審の認定判示
+は肯認できる。論旨は原審のした証拠の取捨判断および事実認定を非難するのでな
+ければ独自の見解に基き原審の判断を非難するに帰するから採用し得ない。また権
+利濫用および違憲の主張は原審の認定した事実に副わない事実を前提とするもので
+あるからこれまた採用し得ない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　高　　　木　　　常　　　七
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
