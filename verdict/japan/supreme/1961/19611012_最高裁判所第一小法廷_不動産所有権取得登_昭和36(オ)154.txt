@@ -1,0 +1,43 @@
+
+date: 19611012
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和36(オ)154
+incident_name: 不動産所有権取得登記抹消手続請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第55号119頁
+previous_court_name: 広島高等裁判所
+previous_incident_id: 
+previous_judeged_at:19601031
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=65960
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　上告代理人小倉金吾の上告理由第一点について。
+　原判決の所論摘示の部分に、被控訴人を控訴人と誤記してあることは所論のとお
+りであるが、原審は昭和三六年一月三〇日付更正決定をもつてその部分を更正して
+いるから論旨は理由がない。�
+　同第二点について。
+　所論の点に関する原審の事実認定及び判断は、挙示の証拠関係に照らし首肯し得
+なくはない。所論はひつきよう原審が適法にした事実認定を争うに帰するから採る
+を得ない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　高　　　木　　　常　　　七
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
