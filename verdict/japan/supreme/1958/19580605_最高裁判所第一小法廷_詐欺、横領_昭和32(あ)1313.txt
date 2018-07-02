@@ -1,0 +1,42 @@
+
+date: 19580605
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和32(あ)1313
+incident_name: 詐欺、横領
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第126号79頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19570425
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=58644
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人大内省三郎及び被告人本人の各上告趣意は、事実誤認、単なる法令違反の
+主張を出でないものであつて、いずれも刑訴四〇五条の上告理由に当らない。（な
+お、本件軽自動車については、道路運送車輛法四条により登録の制度なく、また自
+動車抵当法二条により同法は適用せられない。従つて、流質物に関する質屋営業法
+一九条が適用せられるのであるが、原審で認定した事実関係の下においては、原判
+決が被告人に本件軽自動車の所有権の取得は認められず、右軽自動車の代金中一〇
+万円につき横領罪の成立を免れないと判示したことは正当である。）
+　よつて同四一四条、三八六条一項三号、一八一条により裁判官全員一致の意見で
+主文のとおり決定する。
+　　昭和三三年六月五日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+- 1 -
+
+                    
