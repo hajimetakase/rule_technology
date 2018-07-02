@@ -1,0 +1,42 @@
+
+date: 19590108
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和33(オ)373
+incident_name: 遺言無効確認請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第35号15頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 
+previous_judeged_at:19571211
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=69916
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　上告代理人弁護士鈴木義男、同河野太郎の上告理由第一点について。
+　しかし、裁判官が自ら筆跡の異同を判断し得るこというまでもないから、原審が
+所論鑑定の申請をその必要なしとしてこれを却下し、自ら判示のごとく判断したか
+らといつて、所論の違法があるとはいえない。
+　同第二点について。
+　しかし、証拠の取捨、判断は、事実審裁判所の裁量に属するところであつて、所
+論は、結局原審の裁量を非難するに帰し、採ることができない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主文のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　下　飯　坂　　　潤　　　夫
+　　　　　　　　　　　　裁判官　　　　高　　　木　　　常　　　七
+- 1 -
+
+                    
