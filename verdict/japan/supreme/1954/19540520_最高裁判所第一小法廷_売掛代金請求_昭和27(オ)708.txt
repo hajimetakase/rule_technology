@@ -1,0 +1,42 @@
+
+date: 19540520
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和27(オ)708
+incident_name: 売掛代金請求
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第14号41頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 
+previous_judeged_at:19520618
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=76566
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　論旨第一点は、判例違反をいうけれど、原審では本件タイヤの代金債務は所論手
+形の振出により更改された旨主張されただけであつて、原判決は右更改の事実は認
+め得ないとして本訴請求を排斥しているのであり、所論は原審が右判示に附加して
+なした無用の説示に関するものであり原判決を破棄する理由とならない。同第二点
+は、単なる訴訟法違反の主張に帰し、すべて「最高裁判所における民事上告事件の
+審判の特例に関する法律」（昭和二五年五月四日法律一三八号）一号乃至三号のい
+ずれにも該当せず、又同法にいわゆる「法令の解釈に関する重要な主張を含む」も
+のと認められない。
+　よつて、民訴四〇一条、九五条、八九条に従い、裁判官全員の一致で、主支のと
+おり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+- 1 -
+
+                    
