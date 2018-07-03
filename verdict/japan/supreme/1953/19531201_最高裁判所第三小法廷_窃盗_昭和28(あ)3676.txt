@@ -1,0 +1,41 @@
+
+date: 19531201
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和28(あ)3676
+incident_name: 窃盗
+court_name: 最高裁判所第三小法廷
+process_type: 判決
+book:  集刑　第89号33頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19530610
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=69427
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人長島忠信の上告趣意は、憲法違反を主張するけれども第一審判決挙示のＡ
+提出の被害届書は優に被告人の自白を補強し得るものと認められるから所論違憲の
+主張は理由がない（右被害届書について適法な証拠調がなされていることは記録上
+明らかであつてしかも該書面の記載によつて本件被害者がＢ外一名の者であること
+は十分認め得る）。また記録を調べても同四一一条を適用すべきものとは認められ
+ない。
+　よつて同四〇八条により裁判官全員一致の意見で主文のとおり判決する。
+　　昭和二八年一二月一日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　井　　　上　　　　　　　登
+　　　　　　　　　　　　裁判官　　　　島　　　　　　　　　　　保
+　　　　　　　　　　　　裁判官　　　　河　　　村　　　又　　　介
+　　　　　　　　　　　　裁判官　　　　小　　　林　　　俊　　　三
+　　　　　　　　　　　　裁判官　　　　本　　　村　　　善　太　郎
+- 1 -
+
+                    
