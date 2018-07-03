@@ -1,0 +1,39 @@
+
+date: 19510517
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(あ)1099
+incident_name: 臨時物資需給調整法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第46号61頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500411
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67054
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人蓬田武の上告趣意（後記）第一、二点とも結局原判決の是認した第一審判
+決の適法にした量刑不当を主張するに帰すから論旨はいずれも、刑訴四〇五条の上
+告理由に当らない。また記録を精査しても同四一一条を適用すべきものとは認めら
+れない。
+　よつて同四一四条、三八六条一項三号、一八一条により主文のとおり決定する。
+　この決定は、裁判官全員一致の意見である。
+　　昭和二六年五月一七日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
