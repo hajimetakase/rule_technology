@@ -1,0 +1,38 @@
+
+date: 19501130
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(あ)1046
+incident_name: 賭場開張図利
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第36号703頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500221
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67030
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　被告人の上告趣意について。
+　所論は事実審が適法になした事実の認定及び刑の量定を非難するに過ぎないもの
+であり、刑訴四〇五条所定の上告理由に該当しない。しかも本件は同四一一条を適
+用すべき場合とも認められない。
+　よつて刑訴四一四条三八六条一項三号に従い主文の通り決定する。
+　この決定は裁判官全員の一致した意見である。
+　　昭和二五年一一月三〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+- 1 -
+
+                    
