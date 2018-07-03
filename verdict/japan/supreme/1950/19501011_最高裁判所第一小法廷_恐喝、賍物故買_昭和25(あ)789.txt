@@ -1,0 +1,39 @@
+
+date: 19501011
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(あ)789
+incident_name: 恐喝、賍物故買
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第54号701頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500213
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67643
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人溜池肇の上告趣意は、単なる訴訟法違反の量刑不当を主張するものであつ
+て刑訴四〇五条の上告理由に当らない。また記録を精査しても同四一一条を適用す
+べきものとは認められない。
+　よつて同四一四条、三八六条一項三号、一八一条により主文のとおり決定する。
+　この決定は、裁判官全員一致の意見である。
+　　昭和二六年一〇月一一日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　沢　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
