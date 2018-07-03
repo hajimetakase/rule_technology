@@ -1,0 +1,38 @@
+
+date: 19540907
+result:  その他
+verdict_type:supreme
+incident_id: 昭和29(ク)180
+incident_name: 強制執行停止の仮処分決定につきなした抗告棄却決定に対する抗告
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集民　第15号499頁
+previous_court_name: 広島高等裁判所
+previous_incident_id: 昭和29(ラ)21
+previous_judeged_at:19540705
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  その他
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=77021
+
+verdict:
+
+　右抗告人から広島高等裁判所が昭和二九年七月五日同裁判所昭和二九年（ラ）第
+二一号強制執行停止の仮処分決定に対する抗告事件についてなした抗告棄却の決定
+に対し、同年同月一三日当裁判所に抗告状を提出したが、右抗告状は民訴四一九条
+ノ二及び三、四〇九条ノ二第一項、四〇九条ノ三、三九七条により原裁判所に提出
+すべきものであるから、裁判官全員の一致で、次のとおり決定する。
+　　　　　　　　　主　　　　文
+　　　　　本件を広島高等裁判所に移送する。
+　　昭和二九年九月七日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　井　　　上　　　　　　　登
+　　　　　　　　　　　　裁判官　　　　島　　　　　　　　　　　保
+　　　　　　　　　　　　裁判官　　　　河　　　村　　　又　　　介
+　　　　　　　　　　　　裁判官　　　　小　　　林　　　俊　　　三
+　　　　　　　　　　　　裁判官　　　　本　　　村　　　善　太　郎
+- 1 -
+
+                    
