@@ -1,0 +1,39 @@
+
+date: 19510315
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(あ)1117
+incident_name: 食糧管理法違反、物価統制令違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第41号621頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500223
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67063
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人小堀文雄の上告趣意について。
+　第一審判決も原判決も、所論のように営利の目的を有したことを認定してはいな
+い。犯罪の構成要件ではないからである。所論の違憲主張はその前提を欠くもので
+あつて、理由がない。
+　よつて同四〇八条により主文のとおり判決する。
+　この判決は、裁判官全員一致の意見である。
+　　昭和二六年三月一五日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　眞　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
