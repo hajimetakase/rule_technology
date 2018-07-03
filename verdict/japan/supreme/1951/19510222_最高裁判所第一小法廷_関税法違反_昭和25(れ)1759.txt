@@ -1,0 +1,40 @@
+
+date: 19510222
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(れ)1759
+incident_name: 関税法違反
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  刑集　第5巻3号418頁
+previous_court_name: 福岡高等裁判所
+previous_incident_id: 
+previous_judeged_at:19500912
+agenda_description:  上告審においてはじめて緊急避難である旨主張することの適否
+law_area: 
+law_description:  刑法37条，旧刑訴法409条
+summary_description:  上告審においてはじめて被告人の所為は緊急避難に該当し違法性がない旨主張することはできない。
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=55572
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人長崎裕三の上告趣意について。
+　所論緊急避難の主張は、原審において被告人も弁護人もこれを主張した形跡がな
+く、従つて、原判決もこれにつき何等の判断を示していないし、また、これを示さ
+なかつたのも当然であるといわなければならない。されば、所論は、既にその前提
+において採用し難い。
+　よつて旧刑訴四四六条に従い、裁判官全員一致の意見で主文のとおり判決する。
+　検察官　茂見義勝関与
+　　昭和二六年二月二日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　眞　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
