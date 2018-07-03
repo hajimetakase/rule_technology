@@ -1,0 +1,37 @@
+
+date: 19491203
+result:  棄却
+verdict_type:high
+incident_id: 昭和24(を)新859
+incident_name: 詐欺被告事件
+court_name: 東京高等裁判所 　第一二刑事部
+process_type:
+book: 
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:
+agenda_description:  被欺罔者でない者の証言による被欺罔者の錯誤の認定
+law_area: 
+law_description: 
+summary_description:  詐欺罪における被欺罔者の錯誤の事実は、被欺罔者以外の者の証言で認定しても違法でない。
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail3?id=22163
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件控訴はこれを棄却する。
+　　　　　当審に於ける未決勾留日数中百三十日を被告人が言渡された懲役刑に算
+入する。
+　　　　　当審に於ける訴訟費用は全部これを被告人の負担とする。
+　　　　　　　　　理　　　　由
+　弁護人富田数雄の控訴趣意は同人作成名義の控訴趣意書と題する末尾添附の書面
+の通りである。これに対し当裁判所は次の如く判断する。
+　<要旨>第二点　判示第三の事実について被欺罔者でないＡの供述調書が証拠とし
+て採用せられておることは所</要旨>論の通りであるがかような証拠により供述者以
+外の人が欺罔されて錯誤に陷いつたことを立証することは採証法上違法でない。従
+つて原判決には所論のような探証の法則に違背した違法はない。論旨理由ないもの
+である。
+　（裁判長判事　吉田常次郎　判事　保持道信　判事　鈴木勇）
+
+                    
