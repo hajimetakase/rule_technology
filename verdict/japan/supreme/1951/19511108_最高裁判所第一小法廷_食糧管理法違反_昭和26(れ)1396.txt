@@ -1,0 +1,40 @@
+
+date: 19511108
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和26(れ)1396
+incident_name: 食糧管理法違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第56号471頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19510511
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=71944
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を中棄却する。
+　　　　　　　　　理　　　　由
+　被告人の上告趣意について。
+　原判決の認定した事実は、要するに被告人は心神耗弱の状態にあつて、昭和二二
+年度産米穀の供出割当数量を期日までに政府に売渡さなかつたというのである。さ
+れば、所論は、原判示に副わない主張であつて、刑訴四〇五条所定の適法な上告理
+由とは認め難い。
+　よつて、刑訴施行法三条の二、刑訴四〇八条に従い、裁判官全員一致の意見で主
+文のとおり判決する。
+　　昭和二六年一一月八日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　沢　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
