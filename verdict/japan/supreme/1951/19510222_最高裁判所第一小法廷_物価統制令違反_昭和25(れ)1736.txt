@@ -1,0 +1,42 @@
+
+date: 19510222
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(れ)1736
+incident_name: 物価統制令違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第40号903頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19500426
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=71524
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人關護の上告趣意について。
+　論旨は本件犯行の動機、犯行後の被告人の心境、行動、被告人の家庭の情況等を
+縷述して刑の執行猶予の判決を求めるというに帰する。しかし刑の執行を猶予する
+か否かは事実審たる原裁判所の裁量に委されているところであるから、たとい所論
+に縷述するような事情があるとしても、それにもかかわらず原審が被告人に刑の執
+行猶予を言渡さなかつたからといつて原判決を違法ということはできない。されば
+論旨は上告適法の理由とならぬ。
+　よつて旧刑訴四四六条に従い裁判官全員一致の意見で主文のとおり判決する。
+　検察官　茂見義勝関与
+　　昭和二六年二月二二日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　眞　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
