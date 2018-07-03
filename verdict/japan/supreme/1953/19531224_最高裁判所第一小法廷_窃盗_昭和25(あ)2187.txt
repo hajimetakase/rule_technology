@@ -1,0 +1,41 @@
+
+date: 19531224
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(あ)2187
+incident_name: 窃盗
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第90号279頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19500725
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67299
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　当審における訴訟費用は被告人Ａの負担とする。
+　　　　　　　　　理　　　　由
+　被告人Ｂの弁護人石川浅の上告趣意は、量刑の非難に帰し、被告人Ａの弁護人佐
+藤六郎の上告趣意は、違憲をいう点もあるが（憲法三七条一項の公平な裁判所の裁
+判とは、その内容が当事者の側から見て不公平と思われるものをいうものでないこ
+と当裁判所累次の判例である。）、その実質は、単なる量刑の非難であつて、いず
+れも、刑訴四〇五条の上告理由に当らない。また記録を調べても同四一一条を適用
+すべきものとは認められない。
+　よつて同四一四条、三八六条一項三号、一八一条（被告人Ａに対し）により裁判
+官全員一致の意見で主文のとおり決定する。
+　　昭和二八年一二月二四日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+- 1 -
+
+                    
