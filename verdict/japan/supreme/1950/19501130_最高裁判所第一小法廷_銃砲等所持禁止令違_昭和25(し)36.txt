@@ -1,0 +1,40 @@
+
+date: 19501130
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(し)36
+incident_name: 銃砲等所持禁止令違反被告事件につきなした抗告棄却決定に対する再抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集刑　第36号813頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500213
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67704
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件再抗告を棄却する。
+　　　　　　　　　理　　　　由
+　最高裁判所に対しては刑訴応急措置法一八条のように特に最高裁判所に抗告を申
+立てることを許された場合の外抗告をすることは許されないものであることは既に
+当裁判所の判例（昭和二二年（つ）第七号、同年一二月八日当小法廷決定参照）と
+するところである。
+　そして本件再抗告が右のような抗告にあたらないことは明白であり他にかかる抗
+告を最高裁判所の管轄に属せしめた規定はない。
+　よつて刑訴施行法二条、旧刑訴四四六条一項により主文のごとく決定する。
+　この決定は裁判官全員の一致した意見である。
+　　昭和二五年一一月三〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+- 1 -
+
+                    
