@@ -1,0 +1,42 @@
+
+date: 19510315
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(れ)1665
+incident_name: 殺人、死体遺棄
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第41号803頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500821
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67904
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人鍛治良作、同岡田喜義、同鍛治良道の上告趣意について。
+　第一点、第二点原判決は、実験則に違反する事実認定をした違法があると主張す
+るのであるが、必ずしも原審の事実認定が実験則に反する誤認であるとは認めるこ
+とを得ない。論旨は採ることができない。
+　第三点原判決が罪証に供している被告人の自白以外の証拠はよく自白を補強する
+に足るものと認め得られるから、これらを総合して事実認定をした原判決には所論
+の違法はない。
+　よつて旧刑訴四四六条に従い主文のとおり判決する。
+　この判決は裁判官全員の一致した意見である。
+　検察官　橋本乾三関与
+　　昭和二六年三月一五日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　眞　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
