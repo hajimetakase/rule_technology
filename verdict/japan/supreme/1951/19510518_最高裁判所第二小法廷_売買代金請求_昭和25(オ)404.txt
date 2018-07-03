@@ -1,0 +1,38 @@
+
+date: 19510518
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(オ)404
+incident_name: 売買代金請求
+court_name: 最高裁判所第二小法廷
+process_type: 判決
+book:  集民　第4号791頁
+previous_court_name: 名古屋高等裁判所
+previous_incident_id: 
+previous_judeged_at:19500826
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=73494
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　論旨は「最高裁判所における民事上告事件の特例に関する法律」　（昭和二五年
+五月四日法律第一三八号）一号乃至三号のいずれにも該当せず、又同法にいわゆる
+「法令の解釈に関する重要な主張を含む」ものと認められない。よつて、民訴四〇
+一条、九五条、八九条に従い、全裁判官一致の意見によつて、主文のとおり判決す
+る。
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　霜　　　山　　　精　　　一
+　　　　　　　　　　　　裁判官　　　　栗　　　山　　　　　　　茂
+　　　　　　　　　　　　裁判官　　　　藤　　　田　　　八　　　郎
+　　　　　　　　　　　　裁判官　　　　谷　　　村　　　唯　一　郎
+- 1 -
+
+                    
