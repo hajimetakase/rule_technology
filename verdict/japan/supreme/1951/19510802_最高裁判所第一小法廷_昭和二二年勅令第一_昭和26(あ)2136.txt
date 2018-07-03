@@ -1,0 +1,41 @@
+
+date: 19510802
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和26(あ)2136
+incident_name: 昭和二二年勅令第一号違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第51号101頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19510526
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=68152
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　被告本人の上告趣意について。
+　論旨は原判決が是認した第一審判決の判示にそわない事案を独断前提して原判決
+を目して基本人権を圧迫し憲法違反の誹りをまぬかれないというにとどまるもので
+あつて、右判示事実は単なる経済上の活動と見るべきではなく所論勅令一号一五条
+にいわゆる政治上の活動にあたると解するを相当とするから、原判決には所論の違
+法はなく、論旨は刑訴四〇五条に定める上告の理由にあたらないし、また同四一一
+条を適用すべきものとも認められない。
+　よつて刑訴四〇八条に従い裁判官全員の一致で主文のとおり判決する。
+　　昭和二六年八月二日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　眞　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
