@@ -1,0 +1,41 @@
+
+date: 19520221
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和26(れ)2190
+incident_name: 物価統制令違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第61号417頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19510611
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=72070
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人福田栄一の上告趣意は、刑訴四〇五条に該当しない。（原判決は期待可能
+性がないとは認め得られない旨及び犯意を阻却する事由とはなり得ない旨を判示し
+ているのであるから、所論の判断遺脱はない。また証人Ａの証言によると塩乾は軽
+度の加工になり所論のごとく高度の加工ではないから、所論は結局事実誤認を主張
+するに帰し適法な上告理由とは認め難い）。また記録を精査しても、同四一一条を
+適用すべきものとは認められない。
+　よつて刑訴施行法三条の二、刑訴四〇八条により主文のとおり判決する。
+　この判決は、裁判官全員一致の意見である。
+　　昭和二七年二月二一日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　沢　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
