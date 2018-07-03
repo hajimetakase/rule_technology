@@ -1,0 +1,41 @@
+
+date: 19530430
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和27(き)10
+incident_name: 貿易等臨時措置令、関税法並に臨時物資需給調整法違反被告事件について当裁判所のなした判決に対する再審請求
+court_name: 最高裁判所第二小法廷
+process_type: 決定
+book:  集刑　第79号807頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19521010
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=65110
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件再審の請求を棄却する。
+　　　　　　　　　理　　　　由
+　本件再審請求の事由は末尾に添付した請求人の再審請求書と題する書面記載のと
+おりである。
+　所論引用の各書類は刑訴四三五条六号にいわゆる「有罪の言渡を受けた者に対し
+て無罪若しくは免訴を言渡し、刑の言渡を受けた者に対して刑の免除を言い渡し、
+又は原判決において認めた罪より軽い罪を認めるべき明らかな証拠」とは到底言い
+得ないから本件申立は理由が無い。
+　よつて刑訴四四七条一項に従い全裁判官一致の意見で主文のとおり決定する。
+　　昭和二八年四月三〇日
+　　　　　最高裁判所第二小法廷
+　　　　　　　　　裁判長裁判官　　　　霜　　　山　　　精　　　一
+　　　　　　　　　　　　裁判官　　　　栗　　　山　　　　　　　茂
+　　　　　　　　　　　　裁判官　　　　小　　　谷　　　勝　　　重
+　　　　　　　　　　　　裁判官　　　　藤　　　田　　　八　　　郎
+　　　　　　　　　　　　裁判官　　　　谷　　　村　　　唯　一　郎
+- 1 -
+
+                    
