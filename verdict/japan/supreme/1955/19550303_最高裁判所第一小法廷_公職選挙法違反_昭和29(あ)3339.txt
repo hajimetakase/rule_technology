@@ -1,0 +1,38 @@
+
+date: 19550303
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和29(あ)3339
+incident_name: 公職選挙法違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第103号135頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19540224
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=60667
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人石橋信の上告趣意は憲法違反を主張するけれども、所論刑訴三二一条の規
+定が違憲でないことは、すでに大法廷判例において示したとおりである（判例集六
+巻四号五八四頁）。その余の論旨は、単なる訴訟法違反の主張であつて、刑訴四〇
+五条の適法な上告理由に当らない。
+　よつて同四〇八条により裁判官全員一致の意見で主文のとおり判決する。
+　　昭和三〇年三月三日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+- 1 -
+
+                    
