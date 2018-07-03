@@ -1,0 +1,43 @@
+
+date: 19551223
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和30(す)210
+incident_name: 電車顛覆致死被告事件につきなした全裁判官忌避申立却下決定に対する特別抗告
+court_name: 最高裁判所大法廷
+process_type: 決定
+book:  刑集　第9巻14号2991頁
+previous_court_name: 最高裁判所
+previous_incident_id: 
+previous_judeged_at:19550622
+agenda_description:  最高裁判所大法廷のした決定に対する特別抗告
+law_area: 
+law_description:  刑訴法433条，裁判所法7条2号
+summary_description:  最高裁判所大法廷のした決定に対しては特別抗告をすることは許されない。
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=56963
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件特別抗告を棄却する。
+　　昭和三〇年一二月二三日
+　　　　　最高裁判所大法廷
+　　　　　　　　　裁判長裁判官　　　　栗　　　山　　　　　　　茂
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　小　　　谷　　　勝　　　重
+　　　　　　　　　　　　裁判官　　　　小　　　谷　　　勝　　　重
+　　　　　　　　　　　　裁判官　　　　島　　　　　　　　　　　保
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　藤　　　田　　　八　　　郎
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　河　　　村　　　又　　　介
+　　　　　　　　　　　　裁判官　　　　谷　　　村　　　唯　一　郎
+　　　　　　　　　　　　裁判官　　　　小　　　林　　　俊　　　三
+　　　　　　　　　　　　裁判官　　　　本　　　村　　　善　太　郎
+　　　　　　　　　　　　裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　池　　　田　　　　　　　克
+　　　　　　　　　　　　裁判官　　　　垂　　　水　　　克　　　己
+- 1 -
+
+                    
