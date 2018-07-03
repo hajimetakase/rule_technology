@@ -1,0 +1,37 @@
+
+date: 19511108
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和26(れ)1409
+incident_name: 詐欺
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第56号475頁
+previous_court_name: 大阪高等裁判所
+previous_incident_id: 
+previous_judeged_at:19510320
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=71948
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人関護の上告趣意（後記）は、量刑不当の主張であつて、刑訴四〇五条に該
+当しない。また記録を精査しても、同四一一条を適用すべきものとは認められない。
+　よつて刑訴施行法三条の二刑訴法四〇八条により主文のとおり判決する。
+　この判決は、裁判官全員一致の意見である。
+　　昭和二六年一一月八日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　岩　　　松　　　三　　　郎
+　　　　　　　　　　　　裁判官　　　　沢　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+- 1 -
+
+                    
