@@ -1,0 +1,36 @@
+
+date: 19550707
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和29(テ)15
+incident_name: 仮処分異議事件につきなした判決に対する特別上告申立
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集民　第19号67頁
+previous_court_name: 広島高等裁判所 　岡山支部
+previous_incident_id: 
+previous_judeged_at:19540719
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=74240
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　上告費用は上告人の負担とする。
+　　　　　　　　　理　　　　由
+　論旨は違憲をいうが、その実質は単なる法令違反の主張にすぎず、民訴四〇九条
+ノ二第二項の定める特別上告適法の理由にあたらない。
+　よつて、民訴四〇九条ノ三、四〇一条、九五条、八九条に従い、裁判官全員の一
+致で、主文のとおり判決する。
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　入　　　江　　　俊　　　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
