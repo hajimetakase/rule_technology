@@ -1,0 +1,42 @@
+
+date: 19510118
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(れ)1454
+incident_name: 賍物故買、同寄藏
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第39号441頁
+previous_court_name: 広島高等裁判所 　岡山支部
+previous_incident_id: 
+previous_judeged_at:19500623
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67843
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人小脇芳一の上告趣意について。
+　しかし、所論に引用する被告人の供述は原判決挙示の証拠たる第一審第一回公判
+調書中被告人の判旨と同旨の供述記載と矛盾するものではなく、又所論に引用する
+原審第二回公判調書中相被告人Ａの供述（賍物たる知情についての供述）は原判決
+の証拠としていないものである。そして所論の判示第一の事実の認定は原判決の挙
+示の各証拠に照してこれを肯認するに足りその間反経験則等の違法はない。論旨は
+結局原審の裁量権内で適法にした証拠の取捨乃至事実認定を非難するに帰し上告適
+法の理由とならぬ。
+　よつて旧刑訴四四六条に従い裁判官全員一致の意見で主文のとおり判決する。
+　検察官　安平政吉関与
+　　昭和二六年一月一八日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　沢　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
