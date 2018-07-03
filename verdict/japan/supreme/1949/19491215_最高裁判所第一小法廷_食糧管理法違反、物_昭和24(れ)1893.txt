@@ -1,0 +1,40 @@
+
+date: 19491215
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和24(れ)1893
+incident_name: 食糧管理法違反、物価統制令違反
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  刑集　第3巻12号1018頁
+previous_court_name: 東京高等裁判所
+previous_incident_id: 
+previous_judeged_at:19490531
+agenda_description:  刑法施工法第三條第三項の適用を明示していないと判決と破棄の理由
+law_area: 
+law_description:  刑法施工法3條3項，刑法9條，刑法10條
+summary_description:  併科刑又は選擇刑の定めある場合にその法廷刑の輕重を比照するにあたり、刑法施工法第三條第三項の規定のごときは、特にその適用を明示しなくとも判決破棄の理由となるものでない。
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=55459
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人樫田忠美上告趣意について。
+　しかし、所論刑法施行法三条三項の規定のごときは、特にその適用を明示しなく
+とも判決破棄の理由となるものでないこと所論挙示の判決を熟読すれば自ら明らか
+であるから、所論は、採ることができない。
+　よつて旧刑訴四四六条に従い主文のとおり判決する。
+　この判決は裁判官全員の一致した意見である。
+　検察官　十蔵寺宗雄関与
+　　昭和二四年一二月一五日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　斎　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　沢　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　真　　　野　　　　　　　毅
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
