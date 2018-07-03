@@ -1,0 +1,39 @@
+
+date: 19501116
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(れ)1252
+incident_name: 賍物故買
+court_name: 最高裁判所第一小法廷
+process_type: 判決
+book:  集刑　第36号49頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500222
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67785
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人田畑喜与英の上告趣意について。
+　しかし、事実誤認又は量刑不当を上告理由とするか否かは、立法政策の問題であ
+つて、刑訴応急措置法一三条二項の規定が違憲でないことは、当裁判所不動の判例
+である。されば、所論事実誤認並びに量刑不当の主張は、右措置法の条項により、
+適法な上告理由とはならない。
+　よつて旧刑訴四四六条に従い、裁判官全員一致の意見で主文のとおり判決する。
+　検察官安平政吉関与
+　　昭和二五年一一月一六日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
