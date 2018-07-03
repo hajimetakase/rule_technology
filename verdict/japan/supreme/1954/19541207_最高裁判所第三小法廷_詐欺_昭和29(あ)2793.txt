@@ -1,0 +1,41 @@
+
+date: 19541207
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和29(あ)2793
+incident_name: 詐欺
+court_name: 最高裁判所第三小法廷
+process_type: 決定
+book:  集刑　第101号457頁
+previous_court_name: 仙台高等裁判所
+previous_incident_id: 
+previous_judeged_at:19540630
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=75640
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　被告人本人の上告趣意は量刑不当の主張に外ならないし弁護人松尾菊太郎の上告
+趣意は違憲をいうがその実質は結局量刑の非難に帰し（憲法三七条一項にいわゆる
+公平な裁判所の裁判の意義に関する当裁判所従来の判例を所論のような趣旨に変更
+するの要を認めない）いずれも刑訴四〇五条の上告理由に当らない。また記録を調
+べても同四一一条を適用すべきものとは認められない。
+　よつて同四一四条、三八六条一項三号、一八一条一項但書により裁判官全員一致
+の意見で主文のとおり決定する。
+　　昭和二九年一二月七日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　井　　　上　　　　　　　登
+　　　　　　　　　　　　裁判官　　　　島　　　　　　　　　　　保
+　　　　　　　　　　　　裁判官　　　　河　　　村　　　又　　　介
+　　　　　　　　　　　　裁判官　　　　小　　　林　　　俊　　　三
+　　　　　　　　　　　　裁判官　　　　本　　　村　　　善　太　郎
+- 1 -
+
+                    
