@@ -1,0 +1,38 @@
+
+date: 19501219
+result:  棄却
+verdict_type:supreme
+incident_id: 昭和25(あ)2653
+incident_name: 昭和二二年勅令第一号違反
+court_name: 最高裁判所第三小法廷
+process_type: 判決
+book:  集刑　第38号199頁
+previous_court_name: 
+previous_incident_id: 
+previous_judeged_at:19500930
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  棄却
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=67401
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件上告を棄却する。
+　　　　　　　　　理　　　　由
+　弁護人稲塚隈東の上告趣旨は末尾添附別紙記載の通りであるが、其理由とする処
+は結局刑訴四〇五条所定の上告理由に該当しないしなお同法四一一条を適用すべき
+場合とも思えないから同法第四一四条第三九六条に従つて主文の如く判決する。
+　右は関与裁判官全員一致の意見である。
+　検察官　岡本梅次郎関与
+　　昭和二五年一二月一九日
+　　　　　最高裁判所第三小法廷
+　　　　　　　　　裁判長裁判官　　　　長　谷　川　　　太　一　郎
+　　　　　　　　　　　　裁判官　　　　井　　　上　　　　　　　登
+　　　　　　　　　　　　裁判官　　　　島　　　　　　　　　　　保
+　　　　　　　　　　　　裁判官　　　　河　　　村　　　又　　　介
+- 1 -
+
+                    
