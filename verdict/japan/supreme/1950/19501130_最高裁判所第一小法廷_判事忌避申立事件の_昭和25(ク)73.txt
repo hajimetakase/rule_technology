@@ -1,0 +1,37 @@
+
+date: 19501130
+result:  却下
+verdict_type:supreme
+incident_id: 昭和25(ク)73
+incident_name: 判事忌避申立事件の抗告につきなした決定に対する再抗告
+court_name: 最高裁判所第一小法廷
+process_type: 決定
+book:  集民　第3号1113頁
+previous_court_name: 最高裁判所
+previous_incident_id: 昭和25(ク)45
+previous_judeged_at:19500627
+agenda_description:  
+law_area: 
+law_description:  
+summary_description:  
+result:  却下
+detailUrl: http://www.courts.go.jp/app/hanrei_jp/detail2?id=73591
+
+verdict:
+
+　　　　　　　　　主　　　　文
+　　　　　本件抗告を却下する。
+　　　　　抗告費用は抗告人の負担とする。
+　　　　　　　　　理　　　　由
+　本件抗告の申立は、民訴四一九条ノ二を根拠とするものであるけれども、最高裁
+判所のなした決定に対しては、更に抗告を申立てることは許されない。よつて本件
+抗告は不適法として却下すべく、抗告費用は抗告人に負担させることゝし、主文の
+とおり決定する。
+　　昭和二五年一一月三〇日
+　　　　　最高裁判所第一小法廷
+　　　　　　　　　裁判長裁判官　　　　齋　　　藤　　　悠　　　輔
+　　　　　　　　　　　　裁判官　　　　澤　　　田　　　竹　治　郎
+　　　　　　　　　　　　裁判官　　　　岩　　　松　　　三　　　郎
+- 1 -
+
+                    
